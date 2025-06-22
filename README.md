@@ -8,3 +8,5 @@
  and MQT_QMAP:
  https://github.com/munich-quantum-toolkit/qmap
  must be installed on your local computer.
+
+ The "main" file is that titled workflow_simulation.py
