@@ -1,4 +1,4 @@
-# naqsec
+# NAqsec
  A Simulation toolchain for quantum error correction circuits in neutral atom quantum computers.
 
  This repository has been developed by Josep Amigó during his Bachelor thesis at the CDA chair at TUM for the completionof the degree in Engineering Physics at UPC.
