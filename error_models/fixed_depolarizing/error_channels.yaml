@@ -1,0 +1,21 @@
+gates: 
+  h:
+    - ["DEPOLARIZE1", [0], true, [0.666667]]
+  x:
+    - ["DEPOLARIZE1", [0], true, [0.666667]]
+  z:
+    - ["DEPOLARIZE1", [0], true, [0.666667]]
+  cz:
+    - ["DEPOLARIZE2", [0], true, [1.0]]
+  measure:
+    - ["X_ERROR", [0], true, [0.666667]]
+  atom:
+    - ["X_ERROR", [0], true, [0.666667]]
+
+operations:
+  idle:
+      - ["DEPOLARIZE1", [0.000247]]
+      
+gate_duration:
+p_value: 0
+  

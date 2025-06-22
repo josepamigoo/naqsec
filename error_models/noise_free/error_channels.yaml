@@ -1,0 +1,18 @@
+gates: 
+  h: []
+
+  x: []
+
+  z: []
+
+  cz: []
+
+  measure: []
+
+  atom: []
+
+operations:
+  idle: []
+      
+gate_duration:
+p_value: 0

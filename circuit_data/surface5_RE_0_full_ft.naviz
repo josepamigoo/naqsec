@@ -1,0 +1,7116 @@
+atom (0.000, 297.000) atom0
+atom (3.000, 297.000) atom1
+atom (6.000, 297.000) atom2
+atom (9.000, 297.000) atom3
+atom (12.000, 297.000) atom4
+atom (15.000, 297.000) atom5
+atom (18.000, 297.000) atom6
+atom (21.000, 297.000) atom7
+atom (24.000, 297.000) atom8
+atom (27.000, 297.000) atom9
+atom (30.000, 297.000) atom10
+atom (33.000, 297.000) atom11
+atom (36.000, 297.000) atom12
+atom (39.000, 297.000) atom13
+atom (42.000, 297.000) atom14
+atom (45.000, 297.000) atom15
+atom (48.000, 297.000) atom16
+atom (51.000, 297.000) atom17
+atom (54.000, 297.000) atom18
+atom (57.000, 297.000) atom19
+atom (60.000, 297.000) atom20
+atom (63.000, 297.000) atom21
+atom (66.000, 297.000) atom22
+atom (69.000, 297.000) atom23
+atom (72.000, 297.000) atom24
+atom (75.000, 297.000) atom25
+atom (78.000, 297.000) atom26
+atom (81.000, 297.000) atom27
+atom (84.000, 297.000) atom28
+atom (87.000, 297.000) atom29
+atom (90.000, 297.000) atom30
+atom (93.000, 297.000) atom31
+atom (96.000, 297.000) atom32
+atom (99.000, 297.000) atom33
+atom (102.000, 297.000) atom34
+atom (105.000, 297.000) atom35
+atom (108.000, 297.000) atom36
+atom (111.000, 297.000) atom37
+atom (114.000, 297.000) atom38
+atom (117.000, 297.000) atom39
+atom (120.000, 297.000) atom40
+atom (123.000, 297.000) atom41
+atom (126.000, 297.000) atom42
+atom (129.000, 297.000) atom43
+atom (132.000, 297.000) atom44
+atom (135.000, 297.000) atom45
+atom (138.000, 297.000) atom46
+atom (141.000, 297.000) atom47
+atom (144.000, 297.000) atom48
+atom (147.000, 297.000) atom49
+atom (150.000, 297.000) atom50
+atom (153.000, 297.000) atom51
+atom (156.000, 297.000) atom52
+atom (159.000, 297.000) atom53
+atom (162.000, 297.000) atom54
+atom (165.000, 297.000) atom55
+atom (168.000, 297.000) atom56
+atom (171.000, 297.000) atom57
+atom (174.000, 297.000) atom58
+atom (177.000, 297.000) atom59
+atom (180.000, 297.000) atom60
+atom (183.000, 297.000) atom61
+atom (186.000, 297.000) atom62
+atom (189.000, 297.000) atom63
+atom (192.000, 297.000) atom64
+atom (195.000, 297.000) atom65
+atom (198.000, 297.000) atom66
+atom (201.000, 297.000) atom67
+atom (204.000, 297.000) atom68
+atom (207.000, 297.000) atom69
+atom (210.000, 297.000) atom70
+atom (213.000, 297.000) atom71
+atom (216.000, 297.000) atom72
+atom (219.000, 297.000) atom73
+atom (222.000, 297.000) atom74
+atom (225.000, 297.000) atom75
+atom (228.000, 297.000) atom76
+atom (231.000, 297.000) atom77
+atom (234.000, 297.000) atom78
+atom (237.000, 297.000) atom79
+atom (240.000, 297.000) atom80
+atom (243.000, 297.000) atom81
+atom (246.000, 297.000) atom82
+atom (249.000, 297.000) atom83
+atom (252.000, 297.000) atom84
+atom (255.000, 297.000) atom85
+atom (258.000, 297.000) atom86
+atom (261.000, 297.000) atom87
+@+ h atom0
+@+ h atom1
+@+ h atom2
+@+ h atom4
+@+ h atom5
+@+ h atom7
+@+ h atom11
+@+ h atom14
+@+ h atom15
+@+ h atom18
+@+ h atom21
+@+ h atom24
+@+ h atom23
+@+ h atom17
+@+ h atom13
+@+ h atom22
+@+ h atom12
+@+ h atom8
+@+ h atom3
+@+ h atom6
+@+ h atom20
+@+ h atom19
+@+ h atom16
+@+ h atom10
+@+ h atom9
+@+ h atom25
+@+ h atom26
+@+ h atom27
+@+ h atom28
+@+ h atom29
+@+ h atom34
+@+ h atom35
+@+ h atom36
+@+ h atom37
+@+ h atom30
+@+ h atom38
+@+ h atom39
+@+ h atom31
+@+ h atom40
+@+ h atom41
+@+ h atom32
+@+ h atom42
+@+ h atom43
+@+ h atom44
+@+ h atom45
+@+ h atom46
+@+ h atom33
+@+ h atom47
+@+ h atom48
+@+ h atom72
+@+ h atom49
+@+ h atom73
+@+ h atom50
+@+ h atom51
+@+ h atom52
+@+ h atom74
+@+ h atom53
+@+ h atom75
+@+ h atom54
+@+ h atom76
+@+ h atom55
+@+ h atom77
+@+ h atom56
+@+ h atom57
+@+ h atom58
+@+ h atom78
+@+ h atom59
+@+ h atom79
+@+ h atom60
+@+ h atom61
+@+ h atom80
+@+ h atom62
+@+ h atom63
+@+ h atom81
+@+ h atom64
+@+ h atom82
+@+ h atom65
+@+ h atom83
+@+ h atom66
+@+ h atom84
+@+ h atom67
+@+ h atom85
+@+ h atom68
+@+ h atom86
+@+ h atom69
+@+ h atom87
+@+ h atom70
+@+ h atom71
+@+ load [
+    atom1
+    atom2
+    atom3
+    atom4
+    atom5
+    atom10
+    atom11
+    atom14
+    atom18
+    atom23
+]
+@+ move [
+    (71.000, 317.000) atom5
+    (107.000, 317.000) atom18
+    (95.000, 317.000) atom14
+    (83.000, 317.000) atom11
+    (59.000, 317.000) atom4
+    (73.000, 317.000) atom10
+    (47.000, 317.000) atom2
+    (109.000, 317.000) atom23
+    (49.000, 317.000) atom3
+    (35.000, 317.000) atom1
+]
+@+ store [
+    atom5
+    atom18
+    atom14
+    atom11
+    atom4
+    atom10
+    atom2
+    atom23
+    atom3
+    atom1
+]
+@+ load [
+    atom6
+    atom9
+    atom17
+    atom19
+]
+@+ move [
+    (97.000, 317.000) atom19
+    (85.000, 317.000) atom17
+    (61.000, 317.000) atom9
+    (37.000, 317.000) atom6
+]
+@+ store [
+    atom19
+    atom17
+    atom9
+    atom6
+]
+@+ load [
+    atom7
+    atom13
+    atom15
+    atom20
+]
+@+ move [
+    (59.000, 307.000) atom15
+    (35.000, 307.000) atom7
+    (37.000, 307.000) atom13
+    (61.000, 307.000) atom20
+]
+@+ store [
+    atom15
+    atom7
+    atom13
+    atom20
+]
+@+ cz zone_cz0
+@+ load [
+    atom13
+    atom15
+    atom20
+]
+@+ move [
+    (37.000, 308.000) atom13
+    (59.000, 308.000) atom15
+    (61.000, 308.000) atom20
+]
+@+ load [
+    atom6
+    atom2
+    atom4
+    atom9
+    atom5
+    atom10
+    atom11
+    atom17
+    atom14
+    atom19
+    atom18
+    atom23
+]
+@+ move [
+    (96.000, 294.000) atom18
+    (84.000, 294.000) atom14
+    (72.000, 294.000) atom11
+    (63.000, 294.000) atom5
+    (51.000, 294.000) atom4
+    (39.000, 294.000) atom2
+    (102.000, 294.000) atom23
+    (90.000, 294.000) atom19
+    (78.000, 294.000) atom17
+    (69.000, 294.000) atom10
+    (57.000, 294.000) atom9
+    (36.000, 294.000) atom6
+    (51.000, 291.000) atom15
+    (57.000, 291.000) atom20
+    (36.000, 291.000) atom13
+]
+@+ store [
+    atom18
+    atom14
+    atom11
+    atom5
+    atom4
+    atom2
+    atom23
+    atom19
+    atom17
+    atom10
+    atom9
+    atom6
+    atom15
+    atom20
+    atom13
+]
+@+ h atom6
+@+ h atom20
+@+ h atom19
+@+ h atom10
+@+ h atom9
+@+ h atom2
+@+ load atom13
+@+ move (36.000, 292.000) atom13
+@+ load atom12
+@+ move [
+    (71.000, 317.000) atom12
+    (71.000, 307.000) atom13
+]
+@+ store [
+    atom12
+    atom13
+]
+@+ load [
+    atom8
+    atom22
+    atom24
+]
+@+ move [
+    (95.000, 307.000) atom24
+    (83.000, 307.000) atom22
+    (37.000, 307.000) atom8
+]
+@+ store [
+    atom24
+    atom22
+    atom8
+]
+@+ load [
+    atom2
+    atom4
+    atom11
+]
+@+ move [
+    (47.000, 317.000) atom4
+    (37.000, 317.000) atom2
+    (73.000, 317.000) atom11
+]
+@+ store [
+    atom4
+    atom2
+    atom11
+]
+@+ load [
+    atom14
+    atom18
+    atom23
+]
+@+ move [
+    (85.000, 307.000) atom18
+    (73.000, 307.000) atom14
+    (97.000, 307.000) atom23
+]
+@+ store [
+    atom18
+    atom14
+    atom23
+]
+@+ cz zone_cz0
+@+ load [
+    atom7
+    atom13
+    atom14
+    atom18
+    atom24
+    atom23
+]
+@+ move [
+    (35.000, 308.000) atom7
+    (71.000, 308.000) atom13
+    (74.000, 308.000) atom14
+    (86.000, 308.000) atom18
+    (96.000, 308.000) atom24
+    (98.000, 308.000) atom23
+]
+@+ load [
+    atom1
+    atom2
+    atom4
+    atom3
+    atom12
+]
+@+ move [
+    (60.000, 297.000) atom3
+    (45.000, 297.000) atom2
+    (54.000, 297.000) atom4
+    (66.000, 297.000) atom12
+    (39.000, 297.000) atom1
+    (66.000, 294.000) atom13
+    (39.000, 294.000) atom7
+    (93.000, 294.000) atom24
+    (99.000, 294.000) atom23
+    (87.000, 294.000) atom18
+    (72.000, 294.000) atom14
+]
+@+ store [
+    atom3
+    atom2
+    atom4
+    atom12
+    atom1
+    atom13
+    atom7
+    atom24
+    atom23
+    atom18
+    atom14
+]
+@+ h atom8
+@+ h atom7
+@+ h atom2
+@+ h atom23
+@+ h atom13
+@+ h atom3
+@+ h atom1
+@+ load [
+    atom17
+    atom18
+]
+@+ move [
+    (79.000, 295.000) atom17
+    (88.000, 295.000) atom18
+]
+@+ load [
+    atom0
+    atom1
+    atom2
+    atom16
+]
+@+ move [
+    (35.000, 317.000) atom0
+    (71.000, 317.000) atom16
+    (59.000, 317.000) atom2
+    (95.000, 307.000) atom17
+    (37.000, 317.000) atom1
+    (97.000, 307.000) atom18
+]
+@+ store [
+    atom0
+    atom16
+    atom2
+    atom17
+    atom1
+    atom18
+]
+@+ load atom12
+@+ move (35.000, 307.000) atom12
+@+ store atom12
+@+ load [
+    atom6
+    atom7
+]
+@+ move [
+    (37.000, 295.000) atom6
+    (40.000, 295.000) atom7
+]
+@+ load atom25
+@+ move [
+    (61.000, 317.000) atom25
+    (47.000, 307.000) atom6
+    (49.000, 307.000) atom7
+]
+@+ store [
+    atom25
+    atom6
+    atom7
+]
+@+ load atom21
+@+ move (85.000, 307.000) atom21
+@+ store atom21
+@+ cz zone_cz0
+@+ load [
+    atom12
+    atom7
+    atom22
+    atom17
+]
+@+ move [
+    (35.000, 308.000) atom12
+    (50.000, 308.000) atom7
+    (84.000, 308.000) atom22
+    (96.000, 308.000) atom17
+]
+@+ load [
+    atom0
+    atom1
+    atom2
+    atom11
+]
+@+ move [
+    (57.000, 297.000) atom2
+    (39.000, 297.000) atom1
+    (33.000, 297.000) atom0
+    (72.000, 297.000) atom11
+    (87.000, 294.000) atom17
+    (78.000, 294.000) atom22
+    (33.000, 294.000) atom12
+    (51.000, 294.000) atom7
+]
+@+ store [
+    atom2
+    atom1
+    atom0
+    atom11
+    atom17
+    atom22
+    atom12
+    atom7
+]
+@+ h atom22
+@+ h atom17
+@+ h atom12
+@+ h atom7
+@+ h atom21
+@+ h atom18
+@+ h atom11
+@+ h atom8
+@+ h atom6
+@+ h atom1
+@+ load atom15
+@+ move (73.000, 317.000) atom15
+@+ store atom15
+@+ load atom20
+@+ move (83.000, 307.000) atom20
+@+ store atom20
+@+ load [
+    atom0
+    atom27
+]
+@+ move [
+    (59.000, 307.000) atom0
+    (61.000, 307.000) atom27
+]
+@+ store [
+    atom0
+    atom27
+]
+@+ load [
+    atom9
+    atom10
+    atom19
+]
+@+ move [
+    (58.000, 295.000) atom9
+    (70.000, 295.000) atom10
+    (91.000, 295.000) atom19
+]
+@+ load atom3
+@+ move [
+    (35.000, 307.000) atom9
+    (59.000, 317.000) atom3
+    (95.000, 307.000) atom19
+    (71.000, 307.000) atom10
+]
+@+ store [
+    atom9
+    atom3
+    atom19
+    atom10
+]
+@+ load atom5
+@+ move (49.000, 307.000) atom5
+@+ store atom5
+@+ load atom11
+@+ move (73.000, 307.000) atom11
+@+ store atom11
+@+ cz zone_cz0
+@+ load [
+    atom9
+    atom8
+    atom6
+    atom0
+    atom10
+    atom11
+    atom20
+    atom21
+    atom19
+    atom18
+]
+@+ move [
+    (36.000, 308.000) atom9
+    (38.000, 308.000) atom8
+    (48.000, 308.000) atom6
+    (59.000, 308.000) atom0
+    (71.000, 308.000) atom10
+    (73.000, 308.000) atom11
+    (84.000, 308.000) atom20
+    (86.000, 308.000) atom21
+    (96.000, 308.000) atom19
+    (98.000, 308.000) atom18
+]
+@+ load [
+    atom3
+    atom25
+    atom16
+    atom15
+]
+@+ move [
+    (63.000, 294.000) atom25
+    (69.000, 294.000) atom16
+    (75.000, 294.000) atom15
+    (57.000, 294.000) atom3
+    (90.000, 291.000) atom19
+    (42.000, 291.000) atom8
+    (81.000, 291.000) atom20
+    (75.000, 291.000) atom11
+    (69.000, 291.000) atom10
+    (57.000, 291.000) atom0
+    (84.000, 291.000) atom21
+    (96.000, 291.000) atom18
+    (36.000, 291.000) atom9
+    (48.000, 291.000) atom6
+]
+@+ store [
+    atom25
+    atom16
+    atom15
+    atom3
+    atom19
+    atom8
+    atom20
+    atom11
+    atom10
+    atom0
+    atom21
+    atom18
+    atom9
+    atom6
+]
+@+ h atom21
+@+ h atom18
+@+ h atom16
+@+ h atom11
+@+ h atom8
+@+ h atom6
+@+ h atom0
+@+ load atom0
+@+ move (83.000, 307.000) atom0
+@+ store atom0
+@+ load [
+    atom1
+    atom29
+]
+@+ move [
+    (59.000, 307.000) atom1
+    (85.000, 307.000) atom29
+]
+@+ store [
+    atom1
+    atom29
+]
+@+ load atom25
+@+ move (47.000, 307.000) atom25
+@+ store atom25
+@+ cz zone_cz0
+@+ load [
+    atom5
+    atom1
+    atom0
+]
+@+ move [
+    (75.000, 297.000) atom0
+    (51.000, 297.000) atom5
+    (60.000, 297.000) atom1
+]
+@+ store [
+    atom0
+    atom5
+    atom1
+]
+@+ h atom1
+@+ load [
+    atom5
+    atom0
+    atom32
+]
+@+ move [
+    (71.000, 307.000) atom5
+    (95.000, 307.000) atom0
+    (97.000, 307.000) atom32
+]
+@+ store [
+    atom5
+    atom0
+    atom32
+]
+@+ load [
+    atom2
+    atom26
+    atom34
+]
+@+ move [
+    (83.000, 307.000) atom34
+    (73.000, 307.000) atom26
+    (59.000, 307.000) atom2
+]
+@+ store [
+    atom34
+    atom26
+    atom2
+]
+@+ load atom7
+@+ move (49.000, 307.000) atom7
+@+ store atom7
+@+ cz zone_cz0
+@+ load [
+    atom7
+    atom2
+    atom5
+    atom34
+    atom29
+    atom0
+]
+@+ move [
+    (87.000, 297.000) atom0
+    (78.000, 297.000) atom34
+    (66.000, 297.000) atom5
+    (81.000, 297.000) atom29
+    (51.000, 297.000) atom7
+    (57.000, 297.000) atom2
+]
+@+ store [
+    atom0
+    atom34
+    atom5
+    atom29
+    atom7
+    atom2
+]
+@+ h atom0
+@+ load [
+    atom2
+    atom28
+    atom0
+    atom48
+]
+@+ move [
+    (119.000, 307.000) atom0
+    (83.000, 307.000) atom2
+    (121.000, 307.000) atom48
+    (85.000, 307.000) atom28
+]
+@+ store [
+    atom0
+    atom2
+    atom48
+    atom28
+]
+@+ load atom42
+@+ move (95.000, 307.000) atom42
+@+ store atom42
+@+ load [
+    atom8
+    atom10
+]
+@+ move [
+    (49.000, 307.000) atom8
+    (71.000, 307.000) atom10
+]
+@+ store [
+    atom8
+    atom10
+]
+@+ load atom3
+@+ move (59.000, 307.000) atom3
+@+ store atom3
+@+ cz zone_cz0
+@+ load [
+    atom8
+    atom3
+    atom10
+    atom26
+    atom28
+    atom42
+    atom0
+]
+@+ move [
+    (96.000, 297.000) atom28
+    (84.000, 297.000) atom26
+    (57.000, 297.000) atom8
+    (102.000, 297.000) atom42
+    (126.000, 297.000) atom0
+    (75.000, 297.000) atom10
+    (63.000, 297.000) atom3
+]
+@+ store [
+    atom28
+    atom26
+    atom8
+    atom42
+    atom0
+    atom10
+    atom3
+]
+@+ h atom2
+@+ h atom0
+@+ load [
+    atom4
+    atom1
+    atom72
+]
+@+ move [
+    (119.000, 307.000) atom72
+    (95.000, 307.000) atom1
+    (59.000, 307.000) atom4
+]
+@+ store [
+    atom72
+    atom1
+    atom4
+]
+@+ load [
+    atom3
+    atom28
+    atom0
+    atom60
+]
+@+ move [
+    (155.000, 307.000) atom0
+    (157.000, 307.000) atom60
+    (73.000, 307.000) atom28
+    (71.000, 307.000) atom3
+]
+@+ store [
+    atom0
+    atom60
+    atom28
+    atom3
+]
+@+ load atom11
+@+ move (49.000, 307.000) atom11
+@+ store atom11
+@+ load atom30
+@+ move (85.000, 307.000) atom30
+@+ store atom30
+@+ cz zone_cz0
+@+ load [
+    atom11
+    atom4
+    atom28
+    atom2
+    atom1
+    atom72
+    atom48
+    atom0
+    atom60
+]
+@+ move [
+    (108.000, 294.000) atom1
+    (132.000, 294.000) atom48
+    (84.000, 294.000) atom28
+    (144.000, 294.000) atom0
+    (126.000, 294.000) atom72
+    (90.000, 294.000) atom2
+    (51.000, 294.000) atom11
+    (156.000, 294.000) atom60
+    (60.000, 294.000) atom4
+]
+@+ store [
+    atom1
+    atom48
+    atom28
+    atom0
+    atom72
+    atom2
+    atom11
+    atom60
+    atom4
+]
+@+ h atom3
+@+ h atom2
+@+ h atom1
+@+ h atom0
+@+ load [
+    atom4
+    atom2
+    atom1
+    atom48
+]
+@+ move [
+    (107.000, 307.000) atom4
+    (155.000, 307.000) atom1
+    (131.000, 307.000) atom2
+    (157.000, 307.000) atom48
+]
+@+ store [
+    atom4
+    atom1
+    atom2
+    atom48
+]
+@+ load [
+    atom5
+    atom29
+    atom38
+    atom43
+    atom50
+]
+@+ move [
+    (109.000, 307.000) atom50
+    (95.000, 307.000) atom43
+    (83.000, 307.000) atom38
+    (73.000, 307.000) atom29
+    (59.000, 307.000) atom5
+]
+@+ store [
+    atom50
+    atom43
+    atom38
+    atom29
+    atom5
+]
+@+ load atom14
+@+ move (49.000, 307.000) atom14
+@+ store atom14
+@+ load atom49
+@+ move (133.000, 307.000) atom49
+@+ store atom49
+@+ cz zone_cz0
+@+ load [
+    atom14
+    atom5
+    atom3
+    atom38
+    atom30
+    atom43
+    atom32
+    atom4
+    atom50
+    atom2
+    atom49
+    atom48
+]
+@+ move [
+    (120.000, 291.000) atom50
+    (108.000, 291.000) atom32
+    (117.000, 291.000) atom4
+    (93.000, 291.000) atom30
+    (102.000, 291.000) atom43
+    (138.000, 291.000) atom49
+    (54.000, 291.000) atom14
+    (87.000, 291.000) atom38
+    (75.000, 291.000) atom3
+    (156.000, 291.000) atom48
+    (60.000, 291.000) atom5
+    (132.000, 291.000) atom2
+]
+@+ store [
+    atom50
+    atom32
+    atom4
+    atom30
+    atom43
+    atom49
+    atom14
+    atom38
+    atom3
+    atom48
+    atom5
+    atom2
+]
+@+ h atom5
+@+ h atom1
+@+ h atom2
+@+ h atom4
+@+ load [
+    atom6
+    atom14
+    atom5
+    atom3
+    atom30
+]
+@+ move [
+    (49.000, 292.000) atom6
+    (55.000, 292.000) atom14
+    (61.000, 292.000) atom5
+    (76.000, 292.000) atom3
+    (94.000, 292.000) atom30
+]
+@+ load atom73
+@+ move [
+    (145.000, 317.000) atom73
+    (107.000, 307.000) atom5
+    (119.000, 307.000) atom3
+    (83.000, 307.000) atom14
+    (121.000, 307.000) atom30
+    (59.000, 307.000) atom6
+]
+@+ store [
+    atom73
+    atom5
+    atom3
+    atom14
+    atom30
+    atom6
+]
+@+ load atom35
+@+ move (71.000, 307.000) atom35
+@+ store atom35
+@+ load [
+    atom15
+    atom60
+]
+@+ move [
+    (49.000, 307.000) atom15
+    (157.000, 307.000) atom60
+]
+@+ store [
+    atom15
+    atom60
+]
+@+ load atom49
+@+ move (143.000, 317.000) atom49
+@+ store atom49
+@+ load [
+    atom26
+    atom33
+]
+@+ move [
+    (109.000, 307.000) atom33
+    (85.000, 307.000) atom26
+]
+@+ store [
+    atom33
+    atom26
+]
+@+ cz zone_cz0
+@+ load [
+    atom25
+    atom6
+    atom5
+    atom3
+    atom60
+]
+@+ move [
+    (48.000, 308.000) atom25
+    (60.000, 308.000) atom6
+    (108.000, 308.000) atom5
+    (120.000, 308.000) atom3
+    (158.000, 308.000) atom60
+]
+@+ load [
+    atom49
+    atom73
+]
+@+ move [
+    (150.000, 297.000) atom73
+    (144.000, 297.000) atom49
+    (60.000, 294.000) atom25
+    (72.000, 294.000) atom6
+    (129.000, 294.000) atom3
+    (165.000, 294.000) atom60
+    (114.000, 294.000) atom5
+]
+@+ store [
+    atom73
+    atom49
+    atom25
+    atom6
+    atom3
+    atom60
+    atom5
+]
+@+ load [
+    atom15
+    atom35
+    atom29
+    atom14
+    atom26
+]
+@+ move [
+    (66.000, 297.000) atom35
+    (45.000, 297.000) atom15
+    (87.000, 297.000) atom26
+    (81.000, 297.000) atom14
+    (72.000, 297.000) atom29
+]
+@+ store [
+    atom35
+    atom15
+    atom26
+    atom14
+    atom29
+]
+@+ h atom6
+@+ h atom3
+@+ h atom5
+@+ h atom60
+@+ load [
+    atom7
+    atom29
+    atom47
+    atom61
+]
+@+ move [
+    (107.000, 307.000) atom47
+    (157.000, 307.000) atom61
+    (59.000, 307.000) atom7
+    (73.000, 307.000) atom29
+]
+@+ store [
+    atom47
+    atom61
+    atom7
+    atom29
+]
+@+ load atom48
+@+ move (157.000, 292.000) atom48
+@+ load [
+    atom25
+    atom17
+    atom3
+]
+@+ move [
+    (83.000, 317.000) atom25
+    (133.000, 307.000) atom48
+    (85.000, 317.000) atom17
+    (131.000, 317.000) atom3
+]
+@+ store [
+    atom25
+    atom48
+    atom17
+    atom3
+]
+@+ load [
+    atom6
+    atom5
+]
+@+ move [
+    (73.000, 295.000) atom6
+    (115.000, 295.000) atom5
+]
+@+ load atom49
+@+ move [
+    (133.000, 317.000) atom49
+    (131.000, 307.000) atom5
+    (71.000, 307.000) atom6
+]
+@+ store [
+    atom49
+    atom5
+    atom6
+]
+@+ load atom39
+@+ move (119.000, 307.000) atom39
+@+ store atom39
+@+ cz zone_cz0
+@+ load [
+    atom7
+    atom29
+    atom47
+    atom33
+    atom39
+    atom30
+    atom5
+    atom1
+    atom61
+]
+@+ move [
+    (60.000, 308.000) atom7
+    (74.000, 308.000) atom29
+    (108.000, 308.000) atom47
+    (110.000, 308.000) atom33
+    (120.000, 308.000) atom39
+    (122.000, 308.000) atom30
+    (131.000, 308.000) atom5
+    (156.000, 308.000) atom1
+    (158.000, 308.000) atom61
+]
+@+ load [
+    atom17
+    atom3
+    atom49
+]
+@+ move [
+    (141.000, 297.000) atom49
+    (90.000, 297.000) atom17
+    (129.000, 297.000) atom3
+    (168.000, 294.000) atom61
+    (96.000, 294.000) atom47
+    (111.000, 294.000) atom39
+    (147.000, 294.000) atom1
+    (54.000, 294.000) atom7
+    (105.000, 294.000) atom33
+    (75.000, 294.000) atom29
+    (129.000, 294.000) atom5
+    (120.000, 294.000) atom30
+]
+@+ store [
+    atom49
+    atom17
+    atom3
+    atom61
+    atom47
+    atom39
+    atom1
+    atom7
+    atom33
+    atom29
+    atom5
+    atom30
+]
+@+ h atom1
+@+ h atom3
+@+ load [
+    atom7
+    atom28
+    atom72
+]
+@+ move [
+    (55.000, 295.000) atom7
+    (85.000, 295.000) atom28
+    (127.000, 295.000) atom72
+]
+@+ load [
+    atom51
+    atom80
+]
+@+ move [
+    (169.000, 317.000) atom80
+    (107.000, 307.000) atom7
+    (133.000, 317.000) atom51
+    (109.000, 307.000) atom28
+    (131.000, 307.000) atom72
+]
+@+ store [
+    atom80
+    atom7
+    atom51
+    atom28
+    atom72
+]
+@+ load atom33
+@+ move (73.000, 307.000) atom33
+@+ store atom33
+@+ load atom19
+@+ move (85.000, 317.000) atom19
+@+ store atom19
+@+ load [
+    atom5
+    atom61
+]
+@+ move [
+    (131.000, 317.000) atom5
+    (167.000, 317.000) atom61
+]
+@+ store [
+    atom5
+    atom61
+]
+@+ load atom8
+@+ move (59.000, 307.000) atom8
+@+ store atom8
+@+ cz zone_cz0
+@+ load [
+    atom8
+    atom6
+    atom33
+    atom28
+    atom72
+    atom48
+]
+@+ move [
+    (60.000, 308.000) atom8
+    (72.000, 308.000) atom6
+    (74.000, 308.000) atom33
+    (110.000, 308.000) atom28
+    (131.000, 308.000) atom72
+    (133.000, 308.000) atom48
+]
+@+ load [
+    atom19
+    atom5
+    atom51
+    atom80
+]
+@+ move [
+    (93.000, 291.000) atom19
+    (123.000, 291.000) atom5
+    (135.000, 291.000) atom51
+    (168.000, 291.000) atom80
+    (48.000, 288.000) atom8
+    (123.000, 288.000) atom72
+    (63.000, 288.000) atom6
+    (114.000, 288.000) atom28
+    (135.000, 288.000) atom48
+    (72.000, 288.000) atom33
+]
+@+ store [
+    atom19
+    atom5
+    atom51
+    atom80
+    atom8
+    atom72
+    atom6
+    atom28
+    atom48
+    atom33
+]
+@+ h atom6
+@+ h atom72
+@+ h atom5
+@+ load [
+    atom8
+    atom6
+    atom48
+]
+@+ move [
+    (49.000, 289.000) atom8
+    (64.000, 289.000) atom6
+    (136.000, 289.000) atom48
+]
+@+ load atom64
+@+ move [
+    (133.000, 317.000) atom64
+    (97.000, 307.000) atom48
+    (83.000, 307.000) atom8
+    (95.000, 307.000) atom6
+]
+@+ store [
+    atom64
+    atom48
+    atom8
+    atom6
+]
+@+ load atom28
+@+ move (115.000, 289.000) atom28
+@+ load [
+    atom5
+    atom2
+]
+@+ move [
+    (115.000, 289.000) atom28
+    (124.000, 292.000) atom5
+    (133.000, 292.000) atom2
+]
+@+ load atom26
+@+ move [
+    (169.000, 317.000) atom2
+    (85.000, 307.000) atom28
+    (83.000, 327.000) atom26
+    (131.000, 317.000) atom5
+]
+@+ store [
+    atom2
+    atom28
+    atom26
+    atom5
+]
+@+ load atom19
+@+ move (85.000, 327.000) atom19
+@+ store atom19
+@+ load atom49
+@+ move (109.000, 307.000) atom49
+@+ store atom49
+@+ load atom9
+@+ move (59.000, 307.000) atom9
+@+ store atom9
+@+ load atom21
+@+ move (85.000, 317.000) atom21
+@+ store atom21
+@+ cz zone_cz0
+@+ load [
+    atom9
+    atom28
+    atom6
+    atom48
+    atom7
+]
+@+ move [
+    (60.000, 308.000) atom9
+    (85.000, 308.000) atom28
+    (96.000, 308.000) atom6
+    (98.000, 308.000) atom48
+    (108.000, 308.000) atom7
+]
+@+ load [
+    atom21
+    atom5
+    atom64
+    atom61
+]
+@+ move [
+    (60.000, 308.000) atom9
+    (85.000, 308.000) atom28
+    (96.000, 308.000) atom6
+    (98.000, 308.000) atom48
+    (108.000, 308.000) atom7
+    (85.000, 318.000) atom21
+    (132.000, 318.000) atom5
+    (134.000, 318.000) atom64
+    (168.000, 318.000) atom61
+]
+@+ load [
+    atom26
+    atom19
+]
+@+ move [
+    (90.000, 294.000) atom19
+    (81.000, 294.000) atom26
+    (144.000, 291.000) atom64
+    (159.000, 291.000) atom61
+    (138.000, 291.000) atom5
+    (90.000, 291.000) atom21
+    (120.000, 288.000) atom7
+    (108.000, 288.000) atom48
+    (90.000, 288.000) atom28
+    (99.000, 288.000) atom6
+    (60.000, 288.000) atom9
+]
+@+ store [
+    atom19
+    atom26
+    atom64
+    atom61
+    atom5
+    atom21
+    atom7
+    atom48
+    atom28
+    atom6
+    atom9
+]
+@+ h atom26
+@+ h atom8
+@+ h atom48
+@+ h atom5
+@+ load [
+    atom9
+    atom6
+]
+@+ move [
+    (61.000, 289.000) atom9
+    (100.000, 289.000) atom6
+]
+@+ load atom82
+@+ move [
+    (145.000, 317.000) atom82
+    (95.000, 307.000) atom9
+    (131.000, 307.000) atom6
+]
+@+ store [
+    atom82
+    atom9
+    atom6
+]
+@+ load [
+    atom10
+    atom73
+    atom52
+]
+@+ move [
+    (107.000, 307.000) atom73
+    (133.000, 307.000) atom52
+    (59.000, 307.000) atom10
+]
+@+ store [
+    atom73
+    atom52
+    atom10
+]
+@+ load atom50
+@+ move (121.000, 292.000) atom50
+@+ load atom62
+@+ move [
+    (97.000, 307.000) atom50
+    (167.000, 317.000) atom62
+]
+@+ store [
+    atom50
+    atom62
+]
+@+ load atom64
+@+ move (143.000, 317.000) atom64
+@+ store atom64
+@+ load atom22
+@+ move (85.000, 317.000) atom22
+@+ store atom22
+@+ load atom29
+@+ move (85.000, 307.000) atom29
+@+ store atom29
+@+ cz zone_cz0
+@+ load [
+    atom10
+    atom8
+    atom9
+    atom50
+    atom73
+    atom49
+    atom6
+    atom52
+]
+@+ move [
+    (60.000, 308.000) atom10
+    (83.000, 308.000) atom8
+    (96.000, 308.000) atom9
+    (98.000, 308.000) atom50
+    (108.000, 308.000) atom73
+    (110.000, 308.000) atom49
+    (132.000, 308.000) atom6
+    (134.000, 308.000) atom52
+]
+@+ load [
+    atom25
+    atom22
+    atom64
+    atom82
+    atom62
+    atom2
+]
+@+ move [
+    (159.000, 294.000) atom62
+    (75.000, 294.000) atom25
+    (150.000, 294.000) atom82
+    (141.000, 294.000) atom64
+    (84.000, 294.000) atom22
+    (168.000, 294.000) atom2
+    (120.000, 291.000) atom49
+    (75.000, 291.000) atom8
+    (126.000, 291.000) atom6
+    (111.000, 291.000) atom73
+    (99.000, 291.000) atom50
+    (93.000, 291.000) atom9
+    (132.000, 291.000) atom52
+    (60.000, 291.000) atom10
+]
+@+ store [
+    atom62
+    atom25
+    atom82
+    atom64
+    atom22
+    atom2
+    atom49
+    atom8
+    atom6
+    atom73
+    atom50
+    atom9
+    atom52
+    atom10
+]
+@+ h atom25
+@+ h atom8
+@+ h atom10
+@+ h atom73
+@+ h atom50
+@+ h atom6
+@+ h atom2
+@+ load [
+    atom10
+    atom8
+    atom49
+    atom6
+    atom61
+]
+@+ move [
+    (61.000, 292.000) atom10
+    (76.000, 292.000) atom8
+    (121.000, 292.000) atom49
+    (127.000, 292.000) atom6
+    (159.000, 292.000) atom61
+]
+@+ load atom62
+@+ move [
+    (61.000, 292.000) atom10
+    (76.000, 292.000) atom8
+    (121.000, 292.000) atom49
+    (127.000, 292.000) atom6
+    (160.000, 292.000) atom61
+    (160.000, 295.000) atom62
+]
+@+ load atom74
+@+ move [
+    (157.000, 327.000) atom74
+    (119.000, 307.000) atom8
+    (95.000, 307.000) atom10
+    (145.000, 317.000) atom62
+    (143.000, 307.000) atom6
+    (145.000, 307.000) atom61
+    (121.000, 307.000) atom49
+]
+@+ store [
+    atom74
+    atom8
+    atom10
+    atom62
+    atom6
+    atom61
+    atom49
+]
+@+ load atom33
+@+ move (73.000, 289.000) atom33
+@+ load atom52
+@+ move [
+    (155.000, 327.000) atom52
+    (97.000, 307.000) atom33
+]
+@+ store [
+    atom52
+    atom33
+]
+@+ load atom36
+@+ move (83.000, 307.000) atom36
+@+ store atom36
+@+ load atom11
+@+ move (52.000, 295.000) atom11
+@+ load atom3
+@+ move [
+    (143.000, 317.000) atom3
+    (59.000, 307.000) atom11
+]
+@+ store [
+    atom3
+    atom11
+]
+@+ cz zone_cz0
+@+ load [
+    atom11
+    atom36
+    atom29
+    atom10
+    atom49
+    atom6
+]
+@+ move [
+    (60.000, 308.000) atom11
+    (84.000, 308.000) atom36
+    (86.000, 308.000) atom29
+    (96.000, 308.000) atom10
+    (122.000, 308.000) atom49
+    (143.000, 308.000) atom6
+]
+@+ load [
+    atom3
+    atom62
+]
+@+ move [
+    (60.000, 308.000) atom11
+    (84.000, 308.000) atom36
+    (86.000, 308.000) atom29
+    (96.000, 308.000) atom10
+    (122.000, 308.000) atom49
+    (144.000, 308.000) atom6
+    (144.000, 318.000) atom3
+    (146.000, 318.000) atom62
+]
+@+ load [
+    atom52
+    atom74
+]
+@+ move [
+    (150.000, 291.000) atom52
+    (159.000, 291.000) atom74
+    (132.000, 288.000) atom3
+    (141.000, 288.000) atom62
+    (72.000, 285.000) atom11
+    (132.000, 285.000) atom6
+    (78.000, 285.000) atom36
+    (123.000, 285.000) atom49
+    (87.000, 285.000) atom29
+    (96.000, 285.000) atom10
+]
+@+ store [
+    atom52
+    atom74
+    atom3
+    atom62
+    atom11
+    atom6
+    atom36
+    atom49
+    atom29
+    atom10
+]
+@+ h atom11
+@+ h atom10
+@+ h atom49
+@+ h atom62
+@+ load [
+    atom11
+    atom29
+    atom10
+]
+@+ move [
+    (73.000, 286.000) atom11
+    (88.000, 286.000) atom29
+    (97.000, 286.000) atom10
+]
+@+ load [
+    atom7
+    atom3
+]
+@+ move [
+    (143.000, 327.000) atom7
+    (155.000, 327.000) atom3
+    (107.000, 307.000) atom11
+    (131.000, 307.000) atom10
+    (109.000, 307.000) atom29
+]
+@+ store [
+    atom7
+    atom3
+    atom11
+    atom10
+    atom29
+]
+@+ load atom6
+@+ move (133.000, 286.000) atom6
+@+ load atom63
+@+ move [
+    (157.000, 327.000) atom63
+    (143.000, 317.000) atom6
+]
+@+ store [
+    atom63
+    atom6
+]
+@+ load atom53
+@+ move (121.000, 307.000) atom53
+@+ store atom53
+@+ load atom52
+@+ move (145.000, 327.000) atom52
+@+ store atom52
+@+ load [
+    atom51
+    atom80
+]
+@+ move [
+    (143.000, 307.000) atom80
+    (133.000, 307.000) atom51
+]
+@+ store [
+    atom80
+    atom51
+]
+@+ load [
+    atom12
+    atom47
+]
+@+ move [
+    (59.000, 307.000) atom12
+    (95.000, 307.000) atom47
+]
+@+ store [
+    atom12
+    atom47
+]
+@+ load atom64
+@+ move (145.000, 317.000) atom64
+@+ store atom64
+@+ cz zone_cz0
+@+ load [
+    atom12
+    atom47
+    atom33
+    atom29
+    atom8
+    atom53
+    atom51
+    atom80
+    atom61
+]
+@+ move [
+    (60.000, 308.000) atom12
+    (96.000, 308.000) atom47
+    (98.000, 308.000) atom33
+    (110.000, 308.000) atom29
+    (120.000, 308.000) atom8
+    (122.000, 308.000) atom53
+    (134.000, 308.000) atom51
+    (143.000, 308.000) atom80
+    (145.000, 308.000) atom61
+]
+@+ load [
+    atom6
+    atom64
+]
+@+ move [
+    (60.000, 308.000) atom12
+    (96.000, 308.000) atom47
+    (98.000, 308.000) atom33
+    (110.000, 308.000) atom29
+    (120.000, 308.000) atom8
+    (122.000, 308.000) atom53
+    (134.000, 308.000) atom51
+    (144.000, 308.000) atom80
+    (145.000, 308.000) atom61
+    (144.000, 318.000) atom6
+    (145.000, 318.000) atom64
+]
+@+ load [
+    atom52
+    atom3
+    atom63
+]
+@+ move [
+    (168.000, 291.000) atom63
+    (153.000, 291.000) atom52
+    (162.000, 291.000) atom3
+    (153.000, 288.000) atom64
+    (147.000, 288.000) atom6
+    (153.000, 285.000) atom61
+    (87.000, 285.000) atom47
+    (126.000, 285.000) atom53
+    (138.000, 285.000) atom51
+    (147.000, 285.000) atom80
+    (111.000, 285.000) atom29
+    (117.000, 285.000) atom8
+    (96.000, 285.000) atom33
+    (60.000, 285.000) atom12
+]
+@+ store [
+    atom63
+    atom52
+    atom3
+    atom64
+    atom6
+    atom61
+    atom47
+    atom53
+    atom51
+    atom80
+    atom29
+    atom8
+    atom33
+    atom12
+]
+@+ h atom12
+@+ h atom47
+@+ h atom51
+@+ h atom80
+@+ h atom7
+@+ h atom3
+@+ h atom8
+@+ h atom6
+@+ load [
+    atom54
+    atom75
+    atom81
+]
+@+ move [
+    (145.000, 307.000) atom75
+    (169.000, 307.000) atom81
+    (133.000, 307.000) atom54
+]
+@+ store [
+    atom75
+    atom81
+    atom54
+]
+@+ load atom61
+@+ move (145.000, 327.000) atom61
+@+ store atom61
+@+ load atom53
+@+ move (143.000, 307.000) atom53
+@+ store atom53
+@+ load [
+    atom13
+    atom30
+]
+@+ move [
+    (109.000, 307.000) atom30
+    (59.000, 307.000) atom13
+]
+@+ store [
+    atom30
+    atom13
+]
+@+ load atom63
+@+ move (167.000, 307.000) atom63
+@+ store atom63
+@+ cz zone_cz0
+@+ load [
+    atom13
+    atom11
+    atom30
+    atom10
+    atom54
+    atom53
+    atom75
+    atom63
+    atom81
+]
+@+ move [
+    (60.000, 308.000) atom13
+    (108.000, 308.000) atom11
+    (110.000, 308.000) atom30
+    (132.000, 308.000) atom10
+    (134.000, 308.000) atom54
+    (143.000, 308.000) atom53
+    (145.000, 308.000) atom75
+    (168.000, 308.000) atom63
+    (170.000, 308.000) atom81
+]
+@+ load [
+    atom7
+    atom61
+]
+@+ move [
+    (156.000, 291.000) atom61
+    (144.000, 291.000) atom7
+    (72.000, 288.000) atom13
+    (180.000, 288.000) atom81
+    (156.000, 288.000) atom75
+    (96.000, 288.000) atom11
+    (120.000, 288.000) atom10
+    (105.000, 288.000) atom30
+    (168.000, 288.000) atom63
+    (132.000, 288.000) atom54
+    (144.000, 288.000) atom53
+]
+@+ store [
+    atom61
+    atom7
+    atom13
+    atom81
+    atom75
+    atom11
+    atom10
+    atom30
+    atom63
+    atom54
+    atom53
+]
+@+ h atom13
+@+ h atom61
+@+ h atom10
+@+ load atom12
+@+ move (61.000, 286.000) atom12
+@+ load [
+    atom65
+    atom76
+]
+@+ move [
+    (169.000, 317.000) atom76
+    (107.000, 307.000) atom12
+    (157.000, 317.000) atom65
+]
+@+ store [
+    atom76
+    atom12
+    atom65
+]
+@+ load [
+    atom13
+    atom54
+]
+@+ move [
+    (73.000, 289.000) atom13
+    (133.000, 289.000) atom54
+]
+@+ load [
+    atom9
+    atom4
+]
+@+ move [
+    (119.000, 317.000) atom13
+    (131.000, 327.000) atom9
+    (167.000, 317.000) atom54
+    (143.000, 327.000) atom4
+]
+@+ store [
+    atom13
+    atom9
+    atom54
+    atom4
+]
+@+ load atom29
+@+ move (112.000, 286.000) atom29
+@+ load [
+    atom11
+    atom53
+    atom63
+]
+@+ move [
+    (145.000, 327.000) atom63
+    (133.000, 327.000) atom53
+    (97.000, 327.000) atom11
+    (121.000, 317.000) atom29
+]
+@+ store [
+    atom63
+    atom53
+    atom11
+    atom29
+]
+@+ load [
+    atom30
+    atom10
+]
+@+ move [
+    (106.000, 289.000) atom30
+    (121.000, 289.000) atom10
+]
+@+ load atom7
+@+ move [
+    (106.000, 289.000) atom30
+    (121.000, 289.000) atom10
+    (145.000, 292.000) atom7
+]
+@+ load atom31
+@+ move [
+    (95.000, 327.000) atom31
+    (143.000, 307.000) atom10
+    (155.000, 317.000) atom7
+    (109.000, 307.000) atom30
+]
+@+ store [
+    atom31
+    atom10
+    atom7
+    atom30
+]
+@+ load atom14
+@+ move (59.000, 307.000) atom14
+@+ store atom14
+@+ load atom64
+@+ move (145.000, 307.000) atom64
+@+ store atom64
+@+ cz zone_cz0
+@+ load [
+    atom14
+    atom12
+    atom10
+]
+@+ move [
+    (60.000, 308.000) atom14
+    (108.000, 308.000) atom12
+    (144.000, 308.000) atom10
+]
+@+ load [
+    atom13
+    atom7
+    atom65
+    atom54
+    atom76
+]
+@+ move [
+    (60.000, 308.000) atom14
+    (108.000, 308.000) atom12
+    (143.000, 308.000) atom10
+    (120.000, 318.000) atom13
+    (156.000, 318.000) atom7
+    (158.000, 318.000) atom65
+    (168.000, 318.000) atom54
+    (170.000, 318.000) atom76
+]
+@+ load [
+    atom11
+    atom9
+    atom53
+    atom4
+    atom63
+]
+@+ move [
+    (156.000, 294.000) atom63
+    (153.000, 294.000) atom4
+    (141.000, 294.000) atom53
+    (96.000, 294.000) atom11
+    (132.000, 294.000) atom9
+    (180.000, 291.000) atom76
+    (168.000, 291.000) atom65
+    (177.000, 291.000) atom54
+    (165.000, 291.000) atom7
+    (117.000, 291.000) atom13
+    (72.000, 288.000) atom14
+    (153.000, 288.000) atom10
+    (102.000, 288.000) atom12
+]
+@+ store [
+    atom63
+    atom4
+    atom53
+    atom11
+    atom9
+    atom76
+    atom65
+    atom54
+    atom7
+    atom13
+    atom14
+    atom10
+    atom12
+]
+@+ h atom4
+@+ h atom9
+@+ h atom10
+@+ h atom7
+@+ load [
+    atom33
+    atom8
+]
+@+ move [
+    (97.000, 286.000) atom33
+    (118.000, 286.000) atom8
+]
+@+ load atom83
+@+ move [
+    (169.000, 337.000) atom83
+    (155.000, 327.000) atom8
+    (133.000, 327.000) atom33
+]
+@+ store [
+    atom83
+    atom8
+    atom33
+]
+@+ load [
+    atom14
+    atom28
+]
+@+ move [
+    (73.000, 289.000) atom14
+    (91.000, 289.000) atom28
+]
+@+ load [
+    atom32
+    atom13
+]
+@+ move [
+    (73.000, 289.000) atom14
+    (91.000, 289.000) atom28
+    (109.000, 292.000) atom32
+    (118.000, 292.000) atom13
+]
+@+ load [
+    atom11
+    atom63
+]
+@+ move [
+    (119.000, 307.000) atom14
+    (131.000, 327.000) atom11
+    (143.000, 317.000) atom32
+    (145.000, 317.000) atom13
+    (121.000, 307.000) atom28
+    (157.000, 327.000) atom63
+]
+@+ store [
+    atom14
+    atom11
+    atom32
+    atom13
+    atom28
+    atom63
+]
+@+ load atom65
+@+ move (167.000, 337.000) atom65
+@+ store atom65
+@+ load atom82
+@+ move (151.000, 295.000) atom82
+@+ load atom40
+@+ move [
+    (97.000, 327.000) atom40
+    (143.000, 307.000) atom82
+]
+@+ store [
+    atom40
+    atom82
+]
+@+ load atom38
+@+ move (88.000, 292.000) atom38
+@+ load atom37
+@+ move [
+    (107.000, 307.000) atom38
+    (119.000, 317.000) atom37
+]
+@+ store [
+    atom38
+    atom37
+]
+@+ load atom15
+@+ move (59.000, 307.000) atom15
+@+ store atom15
+@+ cz zone_cz0
+@+ load [
+    atom15
+    atom38
+    atom30
+    atom28
+    atom82
+    atom64
+]
+@+ move [
+    (60.000, 308.000) atom15
+    (108.000, 308.000) atom38
+    (110.000, 308.000) atom30
+    (121.000, 308.000) atom28
+    (143.000, 308.000) atom82
+    (146.000, 308.000) atom64
+]
+@+ load [
+    atom37
+    atom29
+    atom32
+]
+@+ move [
+    (60.000, 308.000) atom15
+    (108.000, 308.000) atom38
+    (110.000, 308.000) atom30
+    (122.000, 308.000) atom28
+    (144.000, 308.000) atom82
+    (146.000, 308.000) atom64
+    (120.000, 318.000) atom37
+    (122.000, 318.000) atom29
+    (144.000, 318.000) atom32
+]
+@+ load [
+    atom40
+    atom11
+    atom33
+    atom8
+]
+@+ move [
+    (60.000, 308.000) atom15
+    (108.000, 308.000) atom38
+    (110.000, 308.000) atom30
+    (122.000, 308.000) atom28
+    (144.000, 308.000) atom82
+    (146.000, 308.000) atom64
+    (120.000, 318.000) atom37
+    (122.000, 318.000) atom29
+    (144.000, 318.000) atom32
+    (98.000, 328.000) atom40
+    (132.000, 328.000) atom11
+    (134.000, 328.000) atom33
+    (156.000, 328.000) atom8
+]
+@+ load [
+    atom65
+    atom83
+]
+@+ move [
+    (162.000, 294.000) atom65
+    (171.000, 294.000) atom83
+    (84.000, 291.000) atom40
+    (120.000, 291.000) atom11
+    (126.000, 291.000) atom33
+    (150.000, 291.000) atom8
+    (111.000, 288.000) atom37
+    (135.000, 288.000) atom32
+    (114.000, 288.000) atom29
+    (96.000, 285.000) atom38
+    (99.000, 285.000) atom30
+    (135.000, 285.000) atom82
+    (114.000, 285.000) atom28
+    (141.000, 285.000) atom64
+    (60.000, 285.000) atom15
+]
+@+ store [
+    atom65
+    atom83
+    atom40
+    atom11
+    atom33
+    atom8
+    atom37
+    atom32
+    atom29
+    atom38
+    atom30
+    atom82
+    atom28
+    atom64
+    atom15
+]
+@+ h atom38
+@+ h atom13
+@+ h atom14
+@+ h atom15
+@+ h atom11
+@+ h atom33
+@+ h atom82
+@+ load [
+    atom12
+    atom81
+]
+@+ move [
+    (155.000, 327.000) atom81
+    (97.000, 327.000) atom12
+]
+@+ store [
+    atom81
+    atom12
+]
+@+ load atom32
+@+ move (136.000, 289.000) atom32
+@+ load atom8
+@+ move [
+    (155.000, 317.000) atom8
+    (121.000, 307.000) atom32
+]
+@+ store [
+    atom8
+    atom32
+]
+@+ load [
+    atom11
+    atom52
+]
+@+ move [
+    (121.000, 292.000) atom11
+    (154.000, 292.000) atom52
+]
+@+ load atom65
+@+ move [
+    (133.000, 307.000) atom52
+    (157.000, 317.000) atom65
+    (131.000, 307.000) atom11
+]
+@+ store [
+    atom52
+    atom65
+    atom11
+]
+@+ load atom53
+@+ move (143.000, 317.000) atom53
+@+ store atom53
+@+ load atom16
+@+ move (59.000, 307.000) atom16
+@+ store atom16
+@+ cz zone_cz0
+@+ load [
+    atom16
+    atom14
+    atom11
+]
+@+ move [
+    (60.000, 308.000) atom16
+    (120.000, 308.000) atom14
+    (132.000, 308.000) atom11
+]
+@+ load [
+    atom53
+    atom13
+    atom8
+    atom65
+]
+@+ move [
+    (60.000, 308.000) atom16
+    (120.000, 308.000) atom14
+    (132.000, 308.000) atom11
+    (144.000, 318.000) atom53
+    (146.000, 318.000) atom13
+    (155.000, 318.000) atom8
+    (158.000, 318.000) atom65
+]
+@+ load [
+    atom31
+    atom12
+    atom81
+]
+@+ move [
+    (105.000, 297.000) atom12
+    (159.000, 297.000) atom81
+    (96.000, 297.000) atom31
+    (156.000, 294.000) atom13
+    (150.000, 294.000) atom53
+    (162.000, 294.000) atom65
+    (159.000, 294.000) atom8
+    (72.000, 291.000) atom16
+    (114.000, 291.000) atom14
+    (129.000, 291.000) atom11
+]
+@+ store [
+    atom12
+    atom81
+    atom31
+    atom13
+    atom53
+    atom65
+    atom8
+    atom16
+    atom14
+    atom11
+]
+@+ h atom16
+@+ h atom12
+@+ h atom14
+@+ h atom81
+@+ h atom8
+@+ load [
+    atom16
+    atom11
+]
+@+ move [
+    (73.000, 292.000) atom16
+    (130.000, 292.000) atom11
+]
+@+ load atom9
+@+ move [
+    (155.000, 327.000) atom9
+    (107.000, 307.000) atom16
+    (143.000, 307.000) atom11
+]
+@+ store [
+    atom9
+    atom16
+    atom11
+]
+@+ load [
+    atom74
+    atom54
+]
+@+ move [
+    (160.000, 292.000) atom74
+    (178.000, 292.000) atom54
+]
+@+ load [
+    atom31
+    atom41
+]
+@+ move [
+    (119.000, 327.000) atom31
+    (145.000, 307.000) atom54
+    (131.000, 307.000) atom74
+    (121.000, 327.000) atom41
+]
+@+ store [
+    atom31
+    atom54
+    atom74
+    atom41
+]
+@+ load [
+    atom17
+    atom44
+]
+@+ move [
+    (59.000, 307.000) atom17
+    (119.000, 307.000) atom44
+]
+@+ store [
+    atom17
+    atom44
+]
+@+ load [
+    atom29
+    atom75
+]
+@+ move [
+    (109.000, 307.000) atom29
+    (157.000, 307.000) atom75
+]
+@+ store [
+    atom29
+    atom75
+]
+@+ load atom53
+@+ move (155.000, 307.000) atom53
+@+ store atom53
+@+ cz zone_cz0
+@+ load [
+    atom16
+    atom29
+    atom44
+    atom32
+    atom74
+    atom54
+]
+@+ move [
+    (108.000, 308.000) atom16
+    (110.000, 308.000) atom29
+    (119.000, 308.000) atom44
+    (121.000, 308.000) atom32
+    (132.000, 308.000) atom74
+    (146.000, 308.000) atom54
+]
+@+ load [
+    atom31
+    atom41
+    atom9
+    atom63
+]
+@+ move [
+    (162.000, 297.000) atom63
+    (114.000, 297.000) atom31
+    (123.000, 297.000) atom41
+    (156.000, 297.000) atom9
+    (96.000, 294.000) atom16
+    (150.000, 294.000) atom54
+    (114.000, 294.000) atom44
+    (105.000, 294.000) atom29
+    (129.000, 294.000) atom74
+    (123.000, 294.000) atom32
+]
+@+ store [
+    atom63
+    atom31
+    atom41
+    atom9
+    atom16
+    atom54
+    atom44
+    atom29
+    atom74
+    atom32
+]
+@+ load [
+    atom17
+    atom75
+]
+@+ move [
+    (153.000, 297.000) atom75
+    (60.000, 297.000) atom17
+]
+@+ store [
+    atom75
+    atom17
+]
+@+ h atom17
+@+ h atom74
+@+ h atom75
+@+ h atom9
+@+ h atom63
+@+ h atom11
+@+ load [
+    atom15
+    atom64
+]
+@+ move [
+    (107.000, 307.000) atom15
+    (145.000, 307.000) atom64
+]
+@+ store [
+    atom15
+    atom64
+]
+@+ load [
+    atom18
+    atom14
+]
+@+ move [
+    (157.000, 307.000) atom14
+    (59.000, 307.000) atom18
+]
+@+ store [
+    atom14
+    atom18
+]
+@+ load atom12
+@+ move (131.000, 307.000) atom12
+@+ store atom12
+@+ load [
+    atom29
+    atom32
+]
+@+ move [
+    (85.000, 307.000) atom29
+    (109.000, 307.000) atom32
+]
+@+ store [
+    atom29
+    atom32
+]
+@+ load [
+    atom36
+    atom30
+]
+@+ move [
+    (83.000, 307.000) atom36
+    (97.000, 307.000) atom30
+]
+@+ store [
+    atom36
+    atom30
+]
+@+ load atom16
+@+ move (95.000, 307.000) atom16
+@+ store atom16
+@+ cz zone_cz0
+@+ load [
+    atom18
+    atom36
+    atom29
+    atom16
+    atom32
+    atom52
+    atom11
+    atom64
+    atom53
+]
+@+ move [
+    (120.000, 297.000) atom32
+    (69.000, 297.000) atom18
+    (150.000, 297.000) atom53
+    (90.000, 297.000) atom29
+    (99.000, 297.000) atom16
+    (147.000, 297.000) atom64
+    (141.000, 297.000) atom11
+    (132.000, 297.000) atom52
+    (84.000, 297.000) atom36
+]
+@+ store [
+    atom32
+    atom18
+    atom53
+    atom29
+    atom16
+    atom64
+    atom11
+    atom52
+    atom36
+]
+@+ h atom36
+@+ h atom18
+@+ h atom15
+@+ h atom52
+@+ h atom53
+@+ h atom64
+@+ load [
+    atom18
+    atom29
+    atom16
+    atom31
+    atom11
+    atom66
+]
+@+ move [
+    (145.000, 317.000) atom66
+    (119.000, 317.000) atom18
+    (131.000, 317.000) atom16
+    (121.000, 317.000) atom29
+    (133.000, 317.000) atom31
+    (143.000, 317.000) atom11
+]
+@+ store [
+    atom66
+    atom18
+    atom16
+    atom29
+    atom31
+    atom11
+]
+@+ load [
+    atom19
+    atom39
+    atom54
+]
+@+ move [
+    (109.000, 307.000) atom54
+    (59.000, 307.000) atom19
+    (95.000, 307.000) atom39
+]
+@+ store [
+    atom54
+    atom19
+    atom39
+]
+@+ load [
+    atom55
+    atom56
+]
+@+ move [
+    (133.000, 307.000) atom55
+    (155.000, 307.000) atom56
+]
+@+ store [
+    atom55
+    atom56
+]
+@+ cz zone_cz0
+@+ load [
+    atom19
+    atom39
+    atom15
+    atom54
+    atom12
+    atom55
+    atom56
+    atom14
+]
+@+ move [
+    (60.000, 308.000) atom19
+    (96.000, 308.000) atom39
+    (108.000, 308.000) atom15
+    (110.000, 308.000) atom54
+    (132.000, 308.000) atom12
+    (133.000, 308.000) atom55
+    (156.000, 308.000) atom56
+    (158.000, 308.000) atom14
+]
+@+ load [
+    atom18
+    atom31
+    atom11
+    atom66
+]
+@+ move [
+    (150.000, 291.000) atom66
+    (114.000, 291.000) atom18
+    (135.000, 291.000) atom31
+    (144.000, 291.000) atom11
+    (72.000, 288.000) atom19
+    (84.000, 288.000) atom39
+    (99.000, 288.000) atom15
+    (165.000, 288.000) atom14
+    (159.000, 288.000) atom56
+    (105.000, 288.000) atom54
+    (135.000, 288.000) atom55
+    (129.000, 288.000) atom12
+]
+@+ store [
+    atom66
+    atom18
+    atom31
+    atom11
+    atom19
+    atom39
+    atom15
+    atom14
+    atom56
+    atom54
+    atom55
+    atom12
+]
+@+ h atom39
+@+ h atom12
+@+ h atom11
+@+ h atom14
+@+ load [
+    atom19
+    atom54
+    atom12
+]
+@+ move [
+    (73.000, 289.000) atom19
+    (106.000, 289.000) atom54
+    (130.000, 289.000) atom12
+]
+@+ load [
+    atom77
+    atom84
+]
+@+ move [
+    (181.000, 317.000) atom84
+    (143.000, 307.000) atom19
+    (169.000, 317.000) atom77
+    (155.000, 307.000) atom54
+    (167.000, 307.000) atom12
+]
+@+ store [
+    atom84
+    atom19
+    atom77
+    atom54
+    atom12
+]
+@+ load atom28
+@+ move (115.000, 286.000) atom28
+@+ load [
+    atom15
+    atom55
+]
+@+ move [
+    (143.000, 317.000) atom15
+    (167.000, 317.000) atom55
+    (145.000, 307.000) atom28
+]
+@+ store [
+    atom15
+    atom55
+    atom28
+]
+@+ load [
+    atom20
+    atom18
+    atom31
+    atom76
+]
+@+ move [
+    (82.000, 292.000) atom20
+    (115.000, 292.000) atom18
+    (136.000, 292.000) atom31
+    (181.000, 292.000) atom76
+]
+@+ load atom57
+@+ move [
+    (85.000, 307.000) atom31
+    (83.000, 307.000) atom18
+    (145.000, 317.000) atom57
+    (157.000, 307.000) atom76
+    (59.000, 307.000) atom20
+]
+@+ store [
+    atom31
+    atom18
+    atom57
+    atom76
+    atom20
+]
+@+ load atom65
+@+ move (163.000, 295.000) atom65
+@+ load [
+    atom34
+    atom32
+]
+@+ move [
+    (119.000, 317.000) atom34
+    (133.000, 317.000) atom32
+    (169.000, 307.000) atom65
+]
+@+ store [
+    atom34
+    atom32
+    atom65
+]
+@+ load atom66
+@+ move (179.000, 317.000) atom66
+@+ store atom66
+@+ load atom17
+@+ move (95.000, 307.000) atom17
+@+ store atom17
+@+ cz zone_cz0
+@+ load [
+    atom20
+    atom18
+    atom17
+    atom30
+    atom19
+    atom28
+    atom54
+    atom76
+    atom12
+]
+@+ move [
+    (60.000, 308.000) atom20
+    (84.000, 308.000) atom18
+    (96.000, 308.000) atom17
+    (98.000, 308.000) atom30
+    (144.000, 308.000) atom19
+    (145.000, 308.000) atom28
+    (156.000, 308.000) atom54
+    (158.000, 308.000) atom76
+    (168.000, 308.000) atom12
+]
+@+ load [
+    atom34
+    atom29
+    atom16
+    atom57
+    atom77
+    atom66
+    atom84
+]
+@+ move [
+    (189.000, 291.000) atom84
+    (177.000, 291.000) atom77
+    (150.000, 291.000) atom57
+    (114.000, 291.000) atom34
+    (183.000, 291.000) atom66
+    (129.000, 291.000) atom16
+    (120.000, 291.000) atom29
+    (105.000, 288.000) atom30
+    (162.000, 288.000) atom76
+    (150.000, 288.000) atom28
+    (87.000, 288.000) atom18
+    (99.000, 288.000) atom17
+    (171.000, 288.000) atom12
+    (156.000, 288.000) atom54
+    (60.000, 288.000) atom20
+    (144.000, 288.000) atom19
+]
+@+ store [
+    atom84
+    atom77
+    atom57
+    atom34
+    atom66
+    atom16
+    atom29
+    atom30
+    atom76
+    atom28
+    atom18
+    atom17
+    atom12
+    atom54
+    atom20
+    atom19
+]
+@+ h atom28
+@+ h atom34
+@+ h atom30
+@+ h atom18
+@+ h atom16
+@+ h atom19
+@+ h atom20
+@+ h atom76
+@+ h atom15
+@+ load [
+    atom21
+    atom16
+]
+@+ move [
+    (91.000, 292.000) atom21
+    (130.000, 292.000) atom16
+]
+@+ load atom68
+@+ move [
+    (145.000, 317.000) atom68
+    (59.000, 307.000) atom21
+    (143.000, 307.000) atom16
+]
+@+ store [
+    atom68
+    atom21
+    atom16
+]
+@+ load atom12
+@+ move (172.000, 289.000) atom12
+@+ load atom13
+@+ move [
+    (169.000, 317.000) atom13
+    (179.000, 307.000) atom12
+]
+@+ store [
+    atom13
+    atom12
+]
+@+ load atom54
+@+ move (157.000, 289.000) atom54
+@+ load atom45
+@+ move [
+    (145.000, 307.000) atom54
+    (131.000, 317.000) atom45
+]
+@+ store [
+    atom54
+    atom45
+]
+@+ load [
+    atom40
+    atom66
+]
+@+ move [
+    (181.000, 307.000) atom66
+    (83.000, 307.000) atom40
+]
+@+ store [
+    atom66
+    atom40
+]
+@+ load atom83
+@+ move (167.000, 307.000) atom83
+@+ store atom83
+@+ cz zone_cz0
+@+ load [
+    atom21
+    atom83
+]
+@+ move [
+    (60.000, 308.000) atom21
+    (167.000, 308.000) atom83
+]
+@+ load [
+    atom45
+    atom15
+    atom55
+]
+@+ move [
+    (180.000, 294.000) atom55
+    (156.000, 294.000) atom15
+    (135.000, 294.000) atom45
+    (180.000, 291.000) atom83
+    (72.000, 291.000) atom21
+]
+@+ store [
+    atom55
+    atom15
+    atom45
+    atom83
+    atom21
+]
+@+ load [
+    atom40
+    atom31
+    atom54
+    atom65
+    atom12
+    atom66
+]
+@+ move [
+    (84.000, 308.000) atom40
+    (86.000, 308.000) atom31
+    (145.000, 308.000) atom54
+    (170.000, 308.000) atom65
+    (180.000, 308.000) atom12
+    (182.000, 308.000) atom66
+]
+@+ load atom68
+@+ move [
+    (141.000, 297.000) atom68
+    (96.000, 294.000) atom31
+    (162.000, 294.000) atom65
+    (174.000, 294.000) atom12
+    (141.000, 294.000) atom54
+    (87.000, 294.000) atom40
+    (183.000, 294.000) atom66
+]
+@+ store [
+    atom68
+    atom31
+    atom65
+    atom12
+    atom54
+    atom40
+    atom66
+]
+@+ h atom21
+@+ h atom40
+@+ h atom54
+@+ h atom83
+@+ h atom13
+@+ h atom12
+@+ h atom15
+@+ load [
+    atom21
+    atom29
+]
+@+ move [
+    (73.000, 292.000) atom21
+    (121.000, 292.000) atom29
+]
+@+ load [
+    atom68
+    atom86
+]
+@+ move [
+    (193.000, 317.000) atom86
+    (191.000, 317.000) atom68
+    (107.000, 307.000) atom21
+    (109.000, 307.000) atom29
+]
+@+ store [
+    atom86
+    atom68
+    atom21
+    atom29
+]
+@+ load atom17
+@+ move (131.000, 317.000) atom17
+@+ store atom17
+@+ load atom58
+@+ move (145.000, 307.000) atom58
+@+ store atom58
+@+ load atom22
+@+ move (59.000, 307.000) atom22
+@+ store atom22
+@+ load atom65
+@+ move (167.000, 317.000) atom65
+@+ store atom65
+@+ cz zone_cz0
+@+ load [
+    atom22
+    atom21
+    atom16
+    atom58
+]
+@+ move [
+    (60.000, 308.000) atom22
+    (108.000, 308.000) atom21
+    (144.000, 308.000) atom16
+    (146.000, 308.000) atom58
+]
+@+ load [
+    atom17
+    atom65
+    atom13
+    atom68
+    atom86
+]
+@+ move [
+    (204.000, 288.000) atom86
+    (120.000, 288.000) atom17
+    (180.000, 288.000) atom13
+    (192.000, 288.000) atom68
+    (168.000, 288.000) atom65
+    (156.000, 285.000) atom58
+    (99.000, 285.000) atom21
+    (60.000, 285.000) atom22
+    (144.000, 285.000) atom16
+]
+@+ store [
+    atom86
+    atom17
+    atom13
+    atom68
+    atom65
+    atom58
+    atom21
+    atom22
+    atom16
+]
+@+ h atom17
+@+ h atom22
+@+ h atom65
+@+ h atom16
+@+ load [
+    atom21
+    atom16
+    atom58
+]
+@+ move [
+    (100.000, 286.000) atom21
+    (145.000, 286.000) atom16
+    (157.000, 286.000) atom58
+]
+@+ load [
+    atom17
+    atom13
+]
+@+ move [
+    (167.000, 317.000) atom17
+    (203.000, 307.000) atom58
+    (191.000, 307.000) atom16
+    (215.000, 317.000) atom13
+    (97.000, 307.000) atom21
+]
+@+ store [
+    atom17
+    atom58
+    atom16
+    atom13
+    atom21
+]
+@+ load [
+    atom23
+    atom66
+]
+@+ move [
+    (100.000, 295.000) atom23
+    (184.000, 295.000) atom66
+]
+@+ load atom67
+@+ move [
+    (59.000, 307.000) atom23
+    (217.000, 317.000) atom67
+    (193.000, 307.000) atom66
+]
+@+ store [
+    atom23
+    atom67
+    atom66
+]
+@+ load atom78
+@+ move (205.000, 307.000) atom78
+@+ store atom78
+@+ load atom37
+@+ move (112.000, 289.000) atom37
+@+ load [
+    atom44
+    atom55
+]
+@+ move [
+    (131.000, 317.000) atom44
+    (169.000, 317.000) atom55
+    (107.000, 307.000) atom37
+]
+@+ store [
+    atom44
+    atom55
+    atom37
+]
+@+ load atom31
+@+ move (95.000, 307.000) atom31
+@+ store atom31
+@+ cz zone_cz0
+@+ load [
+    atom23
+    atom21
+    atom37
+    atom16
+    atom58
+    atom78
+]
+@+ move [
+    (60.000, 308.000) atom23
+    (98.000, 308.000) atom21
+    (108.000, 308.000) atom37
+    (192.000, 308.000) atom16
+    (204.000, 308.000) atom58
+    (206.000, 308.000) atom78
+]
+@+ load [
+    atom44
+    atom17
+    atom13
+    atom67
+]
+@+ move [
+    (228.000, 288.000) atom67
+    (156.000, 288.000) atom17
+    (135.000, 288.000) atom44
+    (219.000, 288.000) atom13
+    (72.000, 285.000) atom23
+    (180.000, 285.000) atom16
+    (105.000, 285.000) atom21
+    (114.000, 285.000) atom37
+    (210.000, 285.000) atom78
+    (198.000, 285.000) atom58
+]
+@+ store [
+    atom67
+    atom17
+    atom44
+    atom13
+    atom23
+    atom16
+    atom21
+    atom37
+    atom78
+    atom58
+]
+@+ h atom37
+@+ h atom44
+@+ h atom23
+@+ h atom13
+@+ load atom35
+@+ move (107.000, 307.000) atom35
+@+ store atom35
+@+ load atom24
+@+ move (94.000, 295.000) atom24
+@+ load atom85
+@+ move [
+    (59.000, 307.000) atom24
+    (229.000, 317.000) atom85
+]
+@+ store [
+    atom24
+    atom85
+]
+@+ load [
+    atom16
+    atom58
+]
+@+ move [
+    (181.000, 286.000) atom16
+    (199.000, 286.000) atom58
+]
+@+ load [
+    atom19
+    atom67
+]
+@+ move [
+    (131.000, 317.000) atom19
+    (227.000, 317.000) atom67
+    (181.000, 307.000) atom58
+    (167.000, 307.000) atom16
+]
+@+ store [
+    atom19
+    atom67
+    atom58
+    atom16
+]
+@+ load atom68
+@+ move (193.000, 289.000) atom68
+@+ load atom77
+@+ move [
+    (169.000, 307.000) atom68
+    (167.000, 317.000) atom77
+]
+@+ store [
+    atom68
+    atom77
+]
+@+ load atom17
+@+ move (179.000, 307.000) atom17
+@+ store atom17
+@+ load atom41
+@+ move (97.000, 307.000) atom41
+@+ store atom41
+@+ load atom84
+@+ move (191.000, 307.000) atom84
+@+ store atom84
+@+ cz zone_cz0
+@+ load [
+    atom24
+    atom27
+    atom31
+    atom41
+    atom35
+    atom29
+    atom16
+    atom68
+    atom58
+    atom84
+    atom66
+]
+@+ move [
+    (60.000, 308.000) atom24
+    (62.000, 308.000) atom27
+    (96.000, 308.000) atom31
+    (98.000, 308.000) atom41
+    (108.000, 308.000) atom35
+    (110.000, 308.000) atom29
+    (167.000, 308.000) atom16
+    (169.000, 308.000) atom68
+    (182.000, 308.000) atom58
+    (192.000, 308.000) atom84
+    (194.000, 308.000) atom66
+]
+@+ load [
+    atom19
+    atom77
+    atom55
+    atom67
+    atom85
+]
+@+ move [
+    (156.000, 288.000) atom77
+    (222.000, 288.000) atom67
+    (171.000, 288.000) atom55
+    (228.000, 288.000) atom85
+    (132.000, 288.000) atom19
+    (204.000, 285.000) atom66
+    (120.000, 285.000) atom29
+    (156.000, 285.000) atom16
+    (201.000, 285.000) atom84
+    (189.000, 285.000) atom58
+    (69.000, 285.000) atom27
+    (66.000, 285.000) atom24
+    (90.000, 285.000) atom31
+    (111.000, 285.000) atom35
+    (171.000, 285.000) atom68
+    (99.000, 285.000) atom41
+]
+@+ store [
+    atom77
+    atom67
+    atom55
+    atom85
+    atom19
+    atom66
+    atom29
+    atom16
+    atom84
+    atom58
+    atom27
+    atom24
+    atom31
+    atom35
+    atom68
+    atom41
+]
+@+ h atom27
+@+ h atom35
+@+ h atom24
+@+ h atom41
+@+ h atom19
+@+ h atom77
+@+ h atom84
+@+ h atom17
+@+ h atom16
+@+ load atom24
+@+ move (67.000, 286.000) atom24
+@+ load [
+    atom18
+    atom55
+    atom67
+]
+@+ move [
+    (157.000, 317.000) atom67
+    (121.000, 317.000) atom55
+    (107.000, 307.000) atom24
+    (119.000, 317.000) atom18
+]
+@+ store [
+    atom67
+    atom55
+    atom24
+    atom18
+]
+@+ load [
+    atom29
+    atom66
+]
+@+ move [
+    (121.000, 286.000) atom29
+    (205.000, 286.000) atom66
+]
+@+ load [
+    atom19
+    atom56
+    atom14
+]
+@+ move [
+    (145.000, 317.000) atom56
+    (181.000, 307.000) atom66
+    (143.000, 317.000) atom19
+    (155.000, 317.000) atom14
+    (109.000, 307.000) atom29
+]
+@+ store [
+    atom56
+    atom66
+    atom19
+    atom14
+    atom29
+]
+@+ load atom46
+@+ move (131.000, 317.000) atom46
+@+ store atom46
+@+ cz zone_cz0
+@+ load [
+    atom29
+    atom66
+]
+@+ move [
+    (110.000, 308.000) atom29
+    (182.000, 308.000) atom66
+]
+@+ load [
+    atom18
+    atom55
+    atom46
+    atom32
+    atom19
+    atom56
+    atom14
+    atom67
+]
+@+ move [
+    (159.000, 291.000) atom67
+    (147.000, 291.000) atom56
+    (123.000, 291.000) atom55
+    (129.000, 291.000) atom46
+    (135.000, 291.000) atom32
+    (141.000, 291.000) atom19
+    (117.000, 291.000) atom18
+    (153.000, 291.000) atom14
+    (111.000, 288.000) atom29
+    (180.000, 288.000) atom66
+]
+@+ store [
+    atom67
+    atom56
+    atom55
+    atom46
+    atom32
+    atom19
+    atom18
+    atom14
+    atom29
+    atom66
+]
+@+ h atom29
+@+ h atom55
+@+ h atom56
+@+ h atom66
+@+ h atom14
+@+ load atom32
+@+ move (136.000, 292.000) atom32
+@+ load atom59
+@+ move [
+    (85.000, 307.000) atom32
+    (133.000, 317.000) atom59
+]
+@+ store [
+    atom32
+    atom59
+]
+@+ load atom20
+@+ move (61.000, 289.000) atom20
+@+ load atom18
+@+ move [
+    (83.000, 307.000) atom20
+    (131.000, 317.000) atom18
+]
+@+ store [
+    atom20
+    atom18
+]
+@+ load atom31
+@+ move (109.000, 307.000) atom31
+@+ store atom31
+@+ load atom69
+@+ move (181.000, 307.000) atom69
+@+ store atom69
+@+ cz zone_cz0
+@+ load [
+    atom20
+    atom32
+    atom24
+    atom31
+    atom17
+    atom69
+]
+@+ move [
+    (84.000, 308.000) atom20
+    (86.000, 308.000) atom32
+    (108.000, 308.000) atom24
+    (110.000, 308.000) atom31
+    (180.000, 308.000) atom17
+    (182.000, 308.000) atom69
+]
+@+ load [
+    atom18
+    atom59
+]
+@+ move [
+    (144.000, 297.000) atom59
+    (129.000, 297.000) atom18
+    (192.000, 294.000) atom69
+    (93.000, 294.000) atom32
+    (117.000, 294.000) atom31
+    (171.000, 294.000) atom17
+    (78.000, 294.000) atom20
+    (105.000, 294.000) atom24
+]
+@+ store [
+    atom59
+    atom18
+    atom69
+    atom32
+    atom31
+    atom17
+    atom20
+    atom24
+]
+@+ h atom24
+@+ h atom31
+@+ h atom20
+@+ h atom18
+@+ h atom17
+@+ load atom20
+@+ move (79.000, 295.000) atom20
+@+ load [
+    atom18
+    atom59
+    atom79
+    atom87
+]
+@+ move [
+    (193.000, 317.000) atom87
+    (143.000, 307.000) atom20
+    (181.000, 317.000) atom79
+    (179.000, 317.000) atom59
+    (155.000, 317.000) atom18
+]
+@+ store [
+    atom87
+    atom20
+    atom79
+    atom59
+    atom18
+]
+@+ load atom57
+@+ move (151.000, 292.000) atom57
+@+ load [
+    atom32
+    atom45
+    atom69
+]
+@+ move [
+    (109.000, 317.000) atom45
+    (107.000, 317.000) atom32
+    (191.000, 317.000) atom69
+    (145.000, 307.000) atom57
+]
+@+ store [
+    atom45
+    atom32
+    atom69
+    atom57
+]
+@+ load atom67
+@+ move (157.000, 317.000) atom67
+@+ store atom67
+@+ cz zone_cz0
+@+ load atom57
+@+ move (146.000, 308.000) atom57
+@+ load [
+    atom45
+    atom18
+    atom67
+    atom59
+    atom79
+    atom69
+    atom87
+]
+@+ move [
+    (168.000, 291.000) atom59
+    (120.000, 291.000) atom45
+    (186.000, 291.000) atom69
+    (150.000, 291.000) atom18
+    (177.000, 291.000) atom79
+    (159.000, 291.000) atom67
+    (192.000, 291.000) atom87
+    (138.000, 288.000) atom57
+]
+@+ store [
+    atom59
+    atom45
+    atom69
+    atom18
+    atom79
+    atom67
+    atom87
+    atom57
+]
+@+ h atom45
+@+ h atom57
+@+ h atom20
+@+ load atom85
+@+ move (229.000, 289.000) atom85
+@+ load [
+    atom18
+    atom69
+]
+@+ move [
+    (193.000, 307.000) atom85
+    (157.000, 317.000) atom69
+    (155.000, 317.000) atom18
+]
+@+ store [
+    atom85
+    atom69
+    atom18
+]
+@+ load [
+    atom19
+    atom67
+]
+@+ move [
+    (191.000, 307.000) atom67
+    (167.000, 307.000) atom19
+]
+@+ store [
+    atom67
+    atom19
+]
+@+ load atom68
+@+ move (145.000, 307.000) atom68
+@+ store atom68
+@+ load atom21
+@+ move (109.000, 317.000) atom21
+@+ store atom21
+@+ load atom59
+@+ move (169.000, 307.000) atom59
+@+ store atom59
+@+ cz zone_cz0
+@+ load [
+    atom20
+    atom68
+    atom59
+    atom67
+    atom85
+]
+@+ move [
+    (144.000, 308.000) atom20
+    (146.000, 308.000) atom68
+    (170.000, 308.000) atom59
+    (192.000, 308.000) atom67
+    (194.000, 308.000) atom85
+]
+@+ load [
+    atom21
+    atom18
+    atom69
+]
+@+ move [
+    (120.000, 294.000) atom21
+    (162.000, 294.000) atom69
+    (150.000, 294.000) atom18
+    (132.000, 291.000) atom20
+    (186.000, 291.000) atom67
+    (174.000, 291.000) atom59
+    (141.000, 291.000) atom68
+    (195.000, 291.000) atom85
+]
+@+ store [
+    atom21
+    atom69
+    atom18
+    atom20
+    atom67
+    atom59
+    atom68
+    atom85
+]
+@+ h atom21
+@+ h atom85
+@+ h atom19
+@+ h atom20
+@+ h atom18
+@+ load atom68
+@+ move (142.000, 292.000) atom68
+@+ load atom21
+@+ move [
+    (203.000, 307.000) atom68
+    (179.000, 317.000) atom21
+]
+@+ store [
+    atom68
+    atom21
+]
+@+ load atom58
+@+ move (181.000, 317.000) atom58
+@+ store atom58
+@+ load atom67
+@+ move (187.000, 292.000) atom67
+@+ load atom42
+@+ move [
+    (169.000, 307.000) atom67
+    (109.000, 317.000) atom42
+]
+@+ store [
+    atom67
+    atom42
+]
+@+ load atom86
+@+ move (205.000, 307.000) atom86
+@+ store atom86
+@+ cz zone_cz0
+@+ load [
+    atom32
+    atom42
+]
+@+ move [
+    (99.000, 288.000) atom32
+    (114.000, 288.000) atom42
+]
+@+ store [
+    atom32
+    atom42
+]
+@+ load [
+    atom19
+    atom67
+    atom68
+    atom86
+]
+@+ move [
+    (168.000, 308.000) atom19
+    (170.000, 308.000) atom67
+    (204.000, 308.000) atom68
+    (206.000, 308.000) atom86
+]
+@+ load atom21
+@+ move [
+    (186.000, 294.000) atom21
+    (216.000, 291.000) atom86
+    (213.000, 291.000) atom68
+    (159.000, 291.000) atom19
+    (171.000, 291.000) atom67
+]
+@+ store [
+    atom21
+    atom86
+    atom68
+    atom19
+    atom67
+]
+@+ h atom42
+@+ h atom19
+@+ h atom67
+@+ h atom86
+@+ h atom21
+@+ load atom78
+@+ move (179.000, 317.000) atom78
+@+ store atom78
+@+ load atom22
+@+ move (61.000, 286.000) atom22
+@+ load atom21
+@+ move [
+    (83.000, 307.000) atom22
+    (203.000, 317.000) atom21
+]
+@+ store [
+    atom22
+    atom21
+]
+@+ load atom32
+@+ move (100.000, 289.000) atom32
+@+ load atom68
+@+ move [
+    (205.000, 317.000) atom68
+    (85.000, 307.000) atom32
+]
+@+ store [
+    atom68
+    atom32
+]
+@+ cz zone_cz0
+@+ load atom68
+@+ move (204.000, 294.000) atom68
+@+ store atom68
+@+ load atom22
+@+ move (84.000, 308.000) atom22
+@+ load [
+    atom78
+    atom58
+]
+@+ move [
+    (168.000, 297.000) atom78
+    (192.000, 297.000) atom58
+    (96.000, 294.000) atom22
+]
+@+ store [
+    atom78
+    atom58
+    atom22
+]
+@+ h atom22
+@+ h atom78
+@+ h atom68
+@+ load atom58
+@+ move (109.000, 307.000) atom58
+@+ store atom58
+@+ load atom43
+@+ move (103.000, 292.000) atom43
+@+ load atom70
+@+ move [
+    (83.000, 307.000) atom43
+    (205.000, 317.000) atom70
+]
+@+ store [
+    atom43
+    atom70
+]
+@+ load atom22
+@+ move (107.000, 307.000) atom22
+@+ store atom22
+@+ cz zone_cz0
+@+ load atom43
+@+ move (84.000, 308.000) atom43
+@+ load [
+    atom21
+    atom70
+]
+@+ move [
+    (216.000, 297.000) atom70
+    (192.000, 297.000) atom21
+    (84.000, 294.000) atom43
+]
+@+ store [
+    atom70
+    atom21
+    atom43
+]
+@+ load [
+    atom32
+    atom22
+    atom58
+]
+@+ move [
+    (72.000, 297.000) atom32
+    (120.000, 297.000) atom58
+    (96.000, 297.000) atom22
+]
+@+ store [
+    atom32
+    atom58
+    atom22
+]
+@+ h atom43
+@+ h atom58
+@+ h atom22
+@+ h atom21
+@+ load [
+    atom32
+    atom22
+]
+@+ move [
+    (131.000, 307.000) atom32
+    (155.000, 307.000) atom22
+]
+@+ store [
+    atom32
+    atom22
+]
+@+ load atom46
+@+ move (133.000, 307.000) atom46
+@+ store atom46
+@+ load atom69
+@+ move (157.000, 307.000) atom69
+@+ store atom69
+@+ cz zone_cz0
+@+ load [
+    atom32
+    atom46
+    atom22
+    atom69
+]
+@+ move [
+    (144.000, 297.000) atom22
+    (165.000, 297.000) atom69
+    (126.000, 297.000) atom32
+    (135.000, 297.000) atom46
+]
+@+ store [
+    atom22
+    atom69
+    atom32
+    atom46
+]
+@+ h atom46
+@+ load atom23
+@+ move (73.000, 286.000) atom23
+@+ load [
+    atom22
+    atom70
+]
+@+ move [
+    (107.000, 307.000) atom23
+    (181.000, 317.000) atom70
+    (179.000, 317.000) atom22
+]
+@+ store [
+    atom23
+    atom70
+    atom22
+]
+@+ load [
+    atom32
+    atom69
+]
+@+ move [
+    (109.000, 307.000) atom32
+    (179.000, 307.000) atom69
+]
+@+ store [
+    atom32
+    atom69
+]
+@+ load atom87
+@+ move (181.000, 307.000) atom87
+@+ store atom87
+@+ cz zone_cz0
+@+ load [
+    atom23
+    atom32
+    atom69
+    atom87
+]
+@+ move [
+    (108.000, 308.000) atom23
+    (110.000, 308.000) atom32
+    (179.000, 308.000) atom69
+    (181.000, 308.000) atom87
+]
+@+ load [
+    atom22
+    atom70
+]
+@+ move [
+    (168.000, 291.000) atom22
+    (189.000, 291.000) atom70
+    (168.000, 285.000) atom69
+    (120.000, 285.000) atom32
+    (117.000, 285.000) atom23
+    (189.000, 285.000) atom87
+]
+@+ store [
+    atom22
+    atom70
+    atom69
+    atom32
+    atom23
+    atom87
+]
+@+ h atom23
+@+ h atom32
+@+ h atom87
+@+ h atom22
+@+ h atom70
+@+ load atom23
+@+ move (167.000, 307.000) atom23
+@+ store atom23
+@+ load atom59
+@+ move (169.000, 307.000) atom59
+@+ store atom59
+@+ cz zone_cz0
+@+ load atom23
+@+ move (165.000, 297.000) atom23
+@+ store atom23
+@+ h atom23
+@+ load atom69
+@+ move (155.000, 307.000) atom69
+@+ store atom69
+@+ load atom79
+@+ move (167.000, 307.000) atom79
+@+ store atom79
+@+ load atom23
+@+ move (157.000, 307.000) atom23
+@+ store atom23
+@+ cz zone_cz0
+@+ load [
+    atom69
+    atom23
+    atom79
+    atom59
+]
+@+ move [
+    (144.000, 297.000) atom69
+    (165.000, 297.000) atom23
+    (174.000, 297.000) atom59
+    (171.000, 297.000) atom79
+]
+@+ store [
+    atom69
+    atom23
+    atom59
+    atom79
+]
+@+ h atom79
+@+ h atom69
+@+ load atom24
+@+ move (106.000, 295.000) atom24
+@+ load [
+    atom23
+    atom71
+]
+@+ move [
+    (155.000, 307.000) atom24
+    (169.000, 317.000) atom71
+    (167.000, 317.000) atom23
+]
+@+ store [
+    atom24
+    atom71
+    atom23
+]
+@+ load atom59
+@+ move (157.000, 307.000) atom59
+@+ store atom59
+@+ cz zone_cz0
+@+ load atom59
+@+ move (158.000, 308.000) atom59
+@+ load [
+    atom23
+    atom71
+]
+@+ move [
+    (177.000, 297.000) atom71
+    (174.000, 297.000) atom23
+    (162.000, 294.000) atom59
+]
+@+ store [
+    atom71
+    atom23
+    atom59
+]
+@+ h atom59
+@+ h atom23
+@+ h atom24
+@+ load atom71
+@+ move (157.000, 307.000) atom71
+@+ store atom71
+@+ cz zone_cz0
+@+ load [
+    atom24
+    atom71
+]
+@+ move [
+    (165.000, 288.000) atom71
+    (159.000, 288.000) atom24
+]
+@+ store [
+    atom71
+    atom24
+]
+@+ h atom24
+@+ h atom71
+// barrier
+@+ h atom48
+@+ h atom72
+@+ h atom49
+@+ h atom73
+@+ h atom50
+@+ h atom51
+@+ h atom52
+@+ h atom74
+@+ h atom53
+@+ h atom75
+@+ h atom54
+@+ h atom76
+@+ h atom55
+@+ h atom77
+@+ h atom56
+@+ h atom57
+@+ h atom58
+@+ h atom78
+@+ h atom59
+@+ h atom79
+@+ h atom60
+@+ h atom61
+@+ h atom80
+@+ h atom62
+@+ h atom63
+@+ h atom81
+@+ h atom64
+@+ h atom82
+@+ h atom65
+@+ h atom83
+@+ h atom66
+@+ h atom84
+@+ h atom67
+@+ h atom85
+@+ h atom68
+@+ h atom86
+@+ h atom69
+@+ h atom87
+@+ h atom70
+@+ h atom71
+@+ load atom49
+@+ move (124.000, 286.000) atom49
+@+ load atom48
+@+ move [
+    (131.000, 317.000) atom48
+    (143.000, 307.000) atom49
+]
+@+ store [
+    atom48
+    atom49
+]
+@+ load atom50
+@+ move (100.000, 292.000) atom50
+@+ load atom0
+@+ move [
+    (131.000, 307.000) atom50
+    (133.000, 317.000) atom0
+]
+@+ store [
+    atom50
+    atom0
+]
+@+ load [
+    atom4
+    atom2
+]
+@+ move [
+    (145.000, 307.000) atom2
+    (133.000, 307.000) atom4
+]
+@+ store [
+    atom2
+    atom4
+]
+@+ cz zone_cz0
+@+ load [
+    atom4
+    atom2
+]
+@+ move [
+    (133.000, 308.000) atom4
+    (146.000, 308.000) atom2
+]
+@+ load atom0
+@+ move [
+    (138.000, 297.000) atom0
+    (138.000, 294.000) atom4
+    (144.000, 294.000) atom2
+]
+@+ store [
+    atom0
+    atom4
+    atom2
+]
+@+ h atom0
+@+ h atom2
+@+ h atom4
+@+ load atom73
+@+ move (145.000, 307.000) atom73
+@+ store atom73
+@+ load atom72
+@+ move (133.000, 317.000) atom72
+@+ store atom72
+@+ load atom9
+@+ move (133.000, 307.000) atom9
+@+ store atom9
+@+ load atom0
+@+ move (155.000, 307.000) atom0
+@+ store atom0
+@+ load atom60
+@+ move (157.000, 307.000) atom60
+@+ store atom60
+@+ cz zone_cz0
+@+ load [
+    atom50
+    atom9
+    atom73
+    atom0
+    atom60
+]
+@+ move [
+    (132.000, 308.000) atom50
+    (133.000, 308.000) atom9
+    (146.000, 308.000) atom73
+    (156.000, 308.000) atom0
+    (158.000, 308.000) atom60
+]
+@+ load atom72
+@+ move [
+    (126.000, 297.000) atom72
+    (120.000, 294.000) atom50
+    (135.000, 294.000) atom73
+    (165.000, 294.000) atom60
+    (126.000, 294.000) atom9
+    (153.000, 294.000) atom0
+]
+@+ store [
+    atom72
+    atom50
+    atom73
+    atom60
+    atom9
+    atom0
+]
+@+ h atom50
+@+ h atom0
+@+ load atom3
+@+ move (163.000, 292.000) atom3
+@+ load atom1
+@+ move [
+    (133.000, 317.000) atom1
+    (145.000, 307.000) atom3
+]
+@+ store [
+    atom1
+    atom3
+]
+@+ cz zone_cz0
+@+ load atom3
+@+ move (146.000, 308.000) atom3
+@+ load atom1
+@+ move [
+    (138.000, 297.000) atom1
+    (147.000, 294.000) atom3
+]
+@+ store [
+    atom1
+    atom3
+]
+@+ h atom1
+@+ h atom3
+@+ load atom5
+@+ move (133.000, 317.000) atom5
+@+ store atom5
+@+ load atom7
+@+ move (145.000, 307.000) atom7
+@+ store atom7
+@+ load atom1
+@+ move (155.000, 307.000) atom1
+@+ store atom1
+@+ load atom60
+@+ move (157.000, 307.000) atom60
+@+ store atom60
+@+ cz zone_cz0
+@+ load [
+    atom7
+    atom60
+]
+@+ move [
+    (146.000, 308.000) atom7
+    (158.000, 308.000) atom60
+]
+@+ load atom5
+@+ move [
+    (138.000, 297.000) atom5
+    (162.000, 291.000) atom60
+    (150.000, 291.000) atom7
+]
+@+ store [
+    atom5
+    atom60
+    atom7
+]
+@+ h atom60
+@+ load atom51
+@+ move (131.000, 307.000) atom51
+@+ store atom51
+@+ load atom73
+@+ move (136.000, 295.000) atom73
+@+ load atom72
+@+ move [
+    (133.000, 317.000) atom72
+    (145.000, 307.000) atom73
+]
+@+ store [
+    atom72
+    atom73
+]
+@+ load atom61
+@+ move (157.000, 307.000) atom61
+@+ store atom61
+@+ load atom5
+@+ move (133.000, 307.000) atom5
+@+ store atom5
+@+ cz zone_cz0
+@+ load [
+    atom5
+    atom73
+    atom1
+]
+@+ move [
+    (133.000, 308.000) atom5
+    (146.000, 308.000) atom73
+    (156.000, 308.000) atom1
+]
+@+ load atom72
+@+ move [
+    (135.000, 294.000) atom72
+    (141.000, 291.000) atom73
+    (135.000, 291.000) atom5
+    (156.000, 291.000) atom1
+]
+@+ store [
+    atom72
+    atom73
+    atom5
+    atom1
+]
+@+ h atom72
+@+ h atom73
+@+ h atom1
+@+ h atom5
+@+ load atom6
+@+ move (133.000, 317.000) atom6
+@+ store atom6
+@+ load atom10
+@+ move (133.000, 307.000) atom10
+@+ store atom10
+@+ load atom80
+@+ move (148.000, 286.000) atom80
+@+ load atom5
+@+ move [
+    (143.000, 317.000) atom5
+    (155.000, 307.000) atom80
+]
+@+ store [
+    atom5
+    atom80
+]
+@+ load atom64
+@+ move (145.000, 317.000) atom64
+@+ store atom64
+@+ load atom8
+@+ move (145.000, 307.000) atom8
+@+ store atom8
+@+ cz zone_cz0
+@+ load [
+    atom51
+    atom49
+    atom80
+]
+@+ move [
+    (131.000, 308.000) atom51
+    (143.000, 308.000) atom49
+    (156.000, 308.000) atom80
+]
+@+ load [
+    atom48
+    atom5
+]
+@+ move [
+    (138.000, 297.000) atom5
+    (129.000, 297.000) atom48
+    (165.000, 291.000) atom80
+    (138.000, 291.000) atom49
+    (129.000, 291.000) atom51
+]
+@+ store [
+    atom5
+    atom48
+    atom80
+    atom49
+    atom51
+]
+@+ h atom48
+@+ h atom49
+@+ h atom51
+@+ h atom5
+@+ load atom82
+@+ move (143.000, 317.000) atom82
+@+ store atom82
+@+ load atom2
+@+ move (145.000, 295.000) atom2
+@+ load atom52
+@+ move [
+    (131.000, 317.000) atom52
+    (155.000, 307.000) atom2
+]
+@+ store [
+    atom52
+    atom2
+]
+@+ load atom54
+@+ move (131.000, 307.000) atom54
+@+ store atom54
+@+ load atom53
+@+ move (143.000, 307.000) atom53
+@+ store atom53
+@+ cz zone_cz0
+@+ load [
+    atom54
+    atom10
+    atom8
+    atom61
+]
+@+ move [
+    (132.000, 308.000) atom54
+    (133.000, 308.000) atom10
+    (145.000, 308.000) atom8
+    (158.000, 308.000) atom61
+]
+@+ load [
+    atom6
+    atom82
+    atom64
+]
+@+ move [
+    (144.000, 288.000) atom6
+    (153.000, 288.000) atom64
+    (147.000, 288.000) atom82
+    (144.000, 285.000) atom10
+    (153.000, 285.000) atom8
+    (138.000, 285.000) atom54
+    (159.000, 285.000) atom61
+]
+@+ store [
+    atom6
+    atom64
+    atom82
+    atom10
+    atom8
+    atom54
+    atom61
+]
+@+ h atom6
+@+ h atom8
+@+ h atom10
+@+ load atom76
+@+ move (133.000, 307.000) atom76
+@+ store atom76
+@+ load [
+    atom62
+    atom6
+]
+@+ move [
+    (142.000, 289.000) atom62
+    (145.000, 289.000) atom6
+]
+@+ load atom74
+@+ move [
+    (167.000, 307.000) atom6
+    (157.000, 307.000) atom62
+    (133.000, 317.000) atom74
+]
+@+ store [
+    atom6
+    atom62
+    atom74
+]
+@+ load [
+    atom54
+    atom61
+]
+@+ move [
+    (169.000, 307.000) atom61
+    (131.000, 307.000) atom54
+]
+@+ store [
+    atom61
+    atom54
+]
+@+ load atom75
+@+ move (145.000, 307.000) atom75
+@+ store atom75
+@+ cz zone_cz0
+@+ load [
+    atom54
+    atom76
+    atom75
+    atom2
+    atom6
+]
+@+ move [
+    (132.000, 308.000) atom54
+    (133.000, 308.000) atom76
+    (146.000, 308.000) atom75
+    (156.000, 308.000) atom2
+    (168.000, 308.000) atom6
+]
+@+ load atom74
+@+ move [
+    (132.000, 288.000) atom74
+    (159.000, 285.000) atom6
+    (147.000, 285.000) atom2
+    (126.000, 285.000) atom54
+    (141.000, 285.000) atom75
+    (132.000, 285.000) atom76
+]
+@+ store [
+    atom74
+    atom6
+    atom2
+    atom54
+    atom75
+    atom76
+]
+@+ h atom2
+@+ load atom6
+@+ move (157.000, 317.000) atom6
+@+ store atom6
+@+ load atom7
+@+ move (133.000, 317.000) atom7
+@+ store atom7
+@+ load atom64
+@+ move (155.000, 317.000) atom64
+@+ store atom64
+@+ load [
+    atom9
+    atom3
+]
+@+ move [
+    (145.000, 307.000) atom9
+    (155.000, 307.000) atom3
+]
+@+ store [
+    atom9
+    atom3
+]
+@+ load atom80
+@+ move (167.000, 307.000) atom80
+@+ store atom80
+@+ cz zone_cz0
+@+ load [
+    atom53
+    atom9
+    atom62
+    atom80
+    atom61
+]
+@+ move [
+    (144.000, 308.000) atom53
+    (146.000, 308.000) atom9
+    (157.000, 308.000) atom62
+    (168.000, 308.000) atom80
+    (170.000, 308.000) atom61
+]
+@+ load [
+    atom7
+    atom64
+    atom6
+]
+@+ move [
+    (141.000, 297.000) atom7
+    (165.000, 297.000) atom6
+    (156.000, 297.000) atom64
+    (165.000, 294.000) atom62
+    (177.000, 294.000) atom61
+    (147.000, 294.000) atom9
+    (168.000, 294.000) atom80
+    (144.000, 294.000) atom53
+]
+@+ store [
+    atom7
+    atom6
+    atom64
+    atom62
+    atom61
+    atom9
+    atom80
+    atom53
+]
+@+ h atom80
+@+ h atom7
+@+ h atom62
+@+ h atom9
+@+ h atom6
+@+ load atom13
+@+ move (220.000, 289.000) atom13
+@+ load atom7
+@+ move [
+    (169.000, 307.000) atom13
+    (167.000, 327.000) atom7
+]
+@+ store [
+    atom13
+    atom7
+]
+@+ load atom10
+@+ move (145.000, 286.000) atom10
+@+ load atom61
+@+ move [
+    (167.000, 317.000) atom10
+    (169.000, 327.000) atom61
+]
+@+ store [
+    atom10
+    atom61
+]
+@+ load atom11
+@+ move (133.000, 317.000) atom11
+@+ store atom11
+@+ load atom53
+@+ move (145.000, 295.000) atom53
+@+ load atom64
+@+ move [
+    (167.000, 307.000) atom53
+    (169.000, 317.000) atom64
+]
+@+ store [
+    atom53
+    atom64
+]
+@+ load atom63
+@+ move (157.000, 307.000) atom63
+@+ store atom63
+@+ cz zone_cz0
+@+ load [
+    atom3
+    atom13
+]
+@+ move [
+    (156.000, 308.000) atom3
+    (170.000, 308.000) atom13
+]
+@+ load [
+    atom52
+    atom11
+    atom10
+]
+@+ move [
+    (156.000, 308.000) atom3
+    (169.000, 308.000) atom13
+    (132.000, 318.000) atom52
+    (134.000, 318.000) atom11
+    (168.000, 318.000) atom10
+]
+@+ load atom61
+@+ move [
+    (177.000, 291.000) atom61
+    (144.000, 288.000) atom11
+    (171.000, 288.000) atom10
+    (129.000, 288.000) atom52
+    (177.000, 285.000) atom13
+    (159.000, 285.000) atom3
+]
+@+ store [
+    atom61
+    atom11
+    atom10
+    atom52
+    atom13
+    atom3
+]
+@+ h atom61
+@+ h atom3
+@+ h atom10
+@+ load atom54
+@+ move (127.000, 286.000) atom54
+@+ load atom65
+@+ move [
+    (169.000, 327.000) atom65
+    (143.000, 307.000) atom54
+]
+@+ store [
+    atom65
+    atom54
+]
+@+ load atom75
+@+ move (169.000, 307.000) atom75
+@+ store atom75
+@+ load atom82
+@+ move (167.000, 317.000) atom82
+@+ store atom82
+@+ load [
+    atom52
+    atom74
+    atom11
+]
+@+ move [
+    (131.000, 307.000) atom52
+    (133.000, 307.000) atom74
+    (145.000, 307.000) atom11
+]
+@+ store [
+    atom52
+    atom74
+    atom11
+]
+@+ load atom81
+@+ move (155.000, 307.000) atom81
+@+ store atom81
+@+ cz zone_cz0
+@+ load [
+    atom82
+    atom64
+]
+@+ move [
+    (167.000, 318.000) atom82
+    (169.000, 318.000) atom64
+]
+@+ load [
+    atom7
+    atom65
+]
+@+ move [
+    (174.000, 288.000) atom65
+    (168.000, 288.000) atom7
+    (174.000, 285.000) atom64
+    (168.000, 285.000) atom82
+]
+@+ store [
+    atom65
+    atom7
+    atom64
+    atom82
+]
+@+ load [
+    atom52
+    atom74
+    atom11
+    atom81
+    atom75
+]
+@+ move [
+    (147.000, 297.000) atom81
+    (162.000, 297.000) atom75
+    (126.000, 297.000) atom52
+    (141.000, 297.000) atom11
+    (132.000, 297.000) atom74
+]
+@+ store [
+    atom81
+    atom75
+    atom52
+    atom11
+    atom74
+]
+@+ h atom74
+@+ h atom75
+@+ h atom82
+@+ h atom11
+@+ h atom7
+@+ load atom83
+@+ move (181.000, 292.000) atom83
+@+ load atom12
+@+ move [
+    (145.000, 317.000) atom12
+    (181.000, 307.000) atom83
+]
+@+ store [
+    atom12
+    atom83
+]
+@+ load atom64
+@+ move (157.000, 317.000) atom64
+@+ store atom64
+@+ load atom14
+@+ move (154.000, 292.000) atom14
+@+ load [
+    atom52
+    atom11
+]
+@+ move [
+    (143.000, 317.000) atom52
+    (155.000, 317.000) atom11
+    (169.000, 307.000) atom14
+]
+@+ store [
+    atom52
+    atom11
+    atom14
+]
+@+ load atom4
+@+ move (155.000, 307.000) atom4
+@+ store atom4
+@+ load atom65
+@+ move (179.000, 307.000) atom65
+@+ store atom65
+@+ load atom15
+@+ move (145.000, 307.000) atom15
+@+ store atom15
+@+ cz zone_cz0
+@+ load [
+    atom15
+    atom4
+    atom53
+    atom65
+    atom83
+]
+@+ move [
+    (146.000, 308.000) atom15
+    (156.000, 308.000) atom4
+    (168.000, 308.000) atom53
+    (180.000, 308.000) atom65
+    (182.000, 308.000) atom83
+]
+@+ load [
+    atom52
+    atom64
+]
+@+ move [
+    (138.000, 294.000) atom52
+    (156.000, 294.000) atom64
+    (174.000, 291.000) atom65
+    (150.000, 291.000) atom4
+    (165.000, 291.000) atom53
+    (180.000, 291.000) atom83
+    (144.000, 291.000) atom15
+]
+@+ store [
+    atom52
+    atom64
+    atom65
+    atom4
+    atom53
+    atom83
+    atom15
+]
+@+ h atom52
+@+ h atom53
+@+ h atom4
+@+ h atom64
+@+ load [
+    atom76
+    atom8
+]
+@+ move [
+    (133.000, 286.000) atom76
+    (154.000, 286.000) atom8
+]
+@+ load atom66
+@+ move [
+    (157.000, 317.000) atom66
+    (145.000, 307.000) atom76
+    (155.000, 307.000) atom8
+]
+@+ store [
+    atom66
+    atom76
+    atom8
+]
+@+ load atom55
+@+ move (143.000, 317.000) atom55
+@+ store atom55
+@+ load [
+    atom15
+    atom56
+]
+@+ move [
+    (167.000, 307.000) atom56
+    (133.000, 307.000) atom15
+]
+@+ store [
+    atom56
+    atom15
+]
+@+ load atom57
+@+ move (131.000, 307.000) atom57
+@+ store atom57
+@+ cz zone_cz0
+@+ load [
+    atom15
+    atom76
+    atom8
+    atom14
+]
+@+ move [
+    (134.000, 308.000) atom15
+    (145.000, 308.000) atom76
+    (155.000, 308.000) atom8
+    (170.000, 308.000) atom14
+]
+@+ load [
+    atom12
+    atom11
+]
+@+ move [
+    (147.000, 291.000) atom12
+    (153.000, 291.000) atom11
+    (138.000, 288.000) atom15
+    (174.000, 288.000) atom14
+    (147.000, 288.000) atom76
+    (153.000, 288.000) atom8
+]
+@+ store [
+    atom12
+    atom11
+    atom15
+    atom14
+    atom76
+    atom8
+]
+@+ h atom76
+@+ h atom12
+@+ h atom11
+@+ h atom14
+@+ h atom15
+@+ load atom84
+@+ move (155.000, 317.000) atom84
+@+ store atom84
+@+ load [
+    atom15
+    atom8
+]
+@+ move [
+    (179.000, 307.000) atom15
+    (191.000, 307.000) atom8
+]
+@+ store [
+    atom15
+    atom8
+]
+@+ load atom16
+@+ move (156.000, 286.000) atom16
+@+ load atom77
+@+ move [
+    (145.000, 317.000) atom77
+    (145.000, 307.000) atom16
+]
+@+ store [
+    atom77
+    atom16
+]
+@+ load atom68
+@+ move (181.000, 307.000) atom68
+@+ store atom68
+@+ load [
+    atom20
+    atom19
+    atom65
+]
+@+ move [
+    (193.000, 307.000) atom65
+    (169.000, 307.000) atom19
+    (133.000, 307.000) atom20
+]
+@+ store [
+    atom65
+    atom19
+    atom20
+]
+@+ load atom81
+@+ move (155.000, 307.000) atom81
+@+ store atom81
+@+ cz zone_cz0
+@+ load [
+    atom57
+    atom20
+    atom54
+    atom81
+    atom56
+    atom19
+    atom15
+    atom8
+    atom65
+]
+@+ move [
+    (132.000, 308.000) atom57
+    (134.000, 308.000) atom20
+    (144.000, 308.000) atom54
+    (155.000, 308.000) atom81
+    (168.000, 308.000) atom56
+    (170.000, 308.000) atom19
+    (180.000, 308.000) atom15
+    (192.000, 308.000) atom8
+    (194.000, 308.000) atom65
+]
+@+ load [
+    atom77
+    atom84
+    atom66
+]
+@+ move [
+    (144.000, 288.000) atom84
+    (141.000, 288.000) atom77
+    (153.000, 288.000) atom66
+    (144.000, 285.000) atom81
+    (156.000, 285.000) atom56
+    (180.000, 285.000) atom8
+    (183.000, 285.000) atom65
+    (123.000, 285.000) atom57
+    (135.000, 285.000) atom54
+    (171.000, 285.000) atom15
+    (162.000, 285.000) atom19
+    (129.000, 285.000) atom20
+]
+@+ store [
+    atom84
+    atom77
+    atom66
+    atom81
+    atom56
+    atom8
+    atom65
+    atom57
+    atom54
+    atom15
+    atom19
+    atom20
+]
+@+ h atom54
+@+ h atom56
+@+ h atom57
+@+ h atom81
+@+ h atom8
+@+ h atom15
+@+ h atom20
+@+ load atom13
+@+ move (145.000, 317.000) atom13
+@+ store atom13
+@+ load [
+    atom12
+    atom86
+]
+@+ move [
+    (179.000, 307.000) atom86
+    (167.000, 307.000) atom12
+]
+@+ store [
+    atom86
+    atom12
+]
+@+ load atom65
+@+ move (169.000, 307.000) atom65
+@+ store atom65
+@+ load atom58
+@+ move (143.000, 307.000) atom58
+@+ store atom58
+@+ load atom9
+@+ move (155.000, 307.000) atom9
+@+ store atom9
+@+ cz zone_cz0
+@+ load [
+    atom16
+    atom9
+    atom63
+    atom12
+    atom86
+    atom68
+]
+@+ move [
+    (145.000, 308.000) atom16
+    (156.000, 308.000) atom9
+    (158.000, 308.000) atom63
+    (168.000, 308.000) atom12
+    (180.000, 308.000) atom86
+    (182.000, 308.000) atom68
+]
+@+ load atom13
+@+ move [
+    (141.000, 297.000) atom13
+    (144.000, 294.000) atom9
+    (147.000, 294.000) atom63
+    (159.000, 294.000) atom12
+    (174.000, 294.000) atom86
+    (141.000, 294.000) atom16
+    (180.000, 294.000) atom68
+]
+@+ store [
+    atom13
+    atom9
+    atom63
+    atom12
+    atom86
+    atom16
+    atom68
+]
+@+ h atom9
+@+ h atom63
+@+ h atom13
+@+ h atom16
+@+ load atom83
+@+ move (181.000, 292.000) atom83
+@+ load atom17
+@+ move [
+    (145.000, 317.000) atom17
+    (167.000, 307.000) atom83
+]
+@+ store [
+    atom17
+    atom83
+]
+@+ load atom78
+@+ move (145.000, 307.000) atom78
+@+ store atom78
+@+ load atom66
+@+ move (155.000, 307.000) atom66
+@+ store atom66
+@+ load atom12
+@+ move (157.000, 307.000) atom12
+@+ store atom12
+@+ cz zone_cz0
+@+ load [
+    atom58
+    atom78
+    atom12
+    atom83
+]
+@+ move [
+    (144.000, 308.000) atom58
+    (145.000, 308.000) atom78
+    (158.000, 308.000) atom12
+    (168.000, 308.000) atom83
+]
+@+ load atom17
+@+ move [
+    (138.000, 288.000) atom17
+    (132.000, 285.000) atom58
+    (138.000, 285.000) atom78
+    (150.000, 285.000) atom12
+    (165.000, 285.000) atom83
+]
+@+ store [
+    atom17
+    atom58
+    atom78
+    atom12
+    atom83
+]
+@+ h atom83
+@+ h atom12
+@+ load atom58
+@+ move (133.000, 286.000) atom58
+@+ load atom77
+@+ move [
+    (145.000, 317.000) atom77
+    (131.000, 307.000) atom58
+]
+@+ store [
+    atom77
+    atom58
+]
+@+ load atom13
+@+ move (167.000, 307.000) atom13
+@+ store atom13
+@+ load atom16
+@+ move (157.000, 307.000) atom16
+@+ store atom16
+@+ load atom17
+@+ move (133.000, 307.000) atom17
+@+ store atom17
+@+ cz zone_cz0
+@+ load [
+    atom58
+    atom17
+    atom16
+    atom65
+]
+@+ move [
+    (132.000, 308.000) atom58
+    (134.000, 308.000) atom17
+    (158.000, 308.000) atom16
+    (170.000, 308.000) atom65
+]
+@+ load atom77
+@+ move [
+    (141.000, 297.000) atom77
+    (126.000, 294.000) atom58
+    (171.000, 294.000) atom65
+    (159.000, 294.000) atom16
+    (132.000, 294.000) atom17
+]
+@+ store [
+    atom77
+    atom58
+    atom65
+    atom16
+    atom17
+]
+@+ h atom77
+@+ h atom65
+@+ h atom17
+@+ load atom21
+@+ move (133.000, 307.000) atom21
+@+ store atom21
+@+ load [
+    atom58
+    atom16
+    atom68
+]
+@+ move [
+    (145.000, 307.000) atom68
+    (143.000, 307.000) atom16
+    (131.000, 307.000) atom58
+]
+@+ store [
+    atom68
+    atom16
+    atom58
+]
+@+ load atom67
+@+ move (172.000, 292.000) atom67
+@+ load atom18
+@+ move [
+    (145.000, 317.000) atom18
+    (169.000, 307.000) atom67
+]
+@+ store [
+    atom18
+    atom67
+]
+@+ load atom84
+@+ move (157.000, 307.000) atom84
+@+ store atom84
+@+ cz zone_cz0
+@+ load [
+    atom21
+    atom16
+    atom84
+    atom13
+]
+@+ move [
+    (134.000, 308.000) atom21
+    (143.000, 308.000) atom16
+    (158.000, 308.000) atom84
+    (168.000, 308.000) atom13
+]
+@+ load atom55
+@+ move [
+    (150.000, 297.000) atom55
+    (177.000, 294.000) atom13
+    (141.000, 294.000) atom21
+    (150.000, 294.000) atom16
+    (159.000, 294.000) atom84
+]
+@+ store [
+    atom55
+    atom13
+    atom21
+    atom16
+    atom84
+]
+@+ h atom55
+@+ h atom84
+@+ h atom13
+@+ h atom16
+@+ h atom21
+@+ load atom85
+@+ move (196.000, 292.000) atom85
+@+ load atom59
+@+ move [
+    (167.000, 307.000) atom85
+    (143.000, 317.000) atom59
+]
+@+ store [
+    atom85
+    atom59
+]
+@+ load atom17
+@+ move (157.000, 307.000) atom17
+@+ store atom17
+@+ load atom20
+@+ move (143.000, 307.000) atom20
+@+ store atom20
+@+ load atom78
+@+ move (133.000, 307.000) atom78
+@+ store atom78
+@+ cz zone_cz0
+@+ load [
+    atom58
+    atom78
+    atom20
+    atom66
+    atom85
+]
+@+ move [
+    (132.000, 308.000) atom58
+    (134.000, 308.000) atom78
+    (144.000, 308.000) atom20
+    (156.000, 308.000) atom66
+    (168.000, 308.000) atom85
+]
+@+ load atom18
+@+ move [
+    (147.000, 291.000) atom18
+    (162.000, 288.000) atom85
+    (138.000, 288.000) atom78
+    (153.000, 288.000) atom66
+    (141.000, 288.000) atom20
+    (132.000, 288.000) atom58
+]
+@+ store [
+    atom18
+    atom85
+    atom78
+    atom66
+    atom20
+    atom58
+]
+@+ h atom78
+@+ h atom66
+@+ h atom18
+@+ h atom20
+@+ load atom22
+@+ move (169.000, 292.000) atom22
+@+ load atom79
+@+ move [
+    (133.000, 307.000) atom22
+    (145.000, 317.000) atom79
+]
+@+ store [
+    atom22
+    atom79
+]
+@+ load atom86
+@+ move (143.000, 307.000) atom86
+@+ store atom86
+@+ load [
+    atom58
+    atom14
+]
+@+ move [
+    (167.000, 307.000) atom14
+    (131.000, 307.000) atom58
+]
+@+ store [
+    atom14
+    atom58
+]
+@+ load atom69
+@+ move (155.000, 307.000) atom69
+@+ store atom69
+@+ cz zone_cz0
+@+ load [
+    atom58
+    atom22
+    atom86
+    atom17
+    atom14
+]
+@+ move [
+    (132.000, 308.000) atom58
+    (134.000, 308.000) atom22
+    (144.000, 308.000) atom86
+    (158.000, 308.000) atom17
+    (168.000, 308.000) atom14
+]
+@+ load atom79
+@+ move [
+    (144.000, 288.000) atom79
+    (174.000, 285.000) atom14
+    (138.000, 285.000) atom86
+    (153.000, 285.000) atom17
+    (129.000, 285.000) atom58
+    (132.000, 285.000) atom22
+]
+@+ store [
+    atom79
+    atom14
+    atom86
+    atom17
+    atom58
+    atom22
+]
+@+ h atom58
+@+ h atom14
+@+ h atom86
+@+ h atom17
+@+ h atom22
+@+ load atom87
+@+ move (157.000, 307.000) atom87
+@+ store atom87
+@+ load atom19
+@+ move (145.000, 317.000) atom19
+@+ store atom19
+@+ load atom18
+@+ move (167.000, 307.000) atom18
+@+ store atom18
+@+ load atom21
+@+ move (143.000, 307.000) atom21
+@+ store atom21
+@+ cz zone_cz0
+@+ load [
+    atom68
+    atom69
+    atom87
+    atom18
+]
+@+ move [
+    (145.000, 308.000) atom68
+    (156.000, 308.000) atom69
+    (158.000, 308.000) atom87
+    (168.000, 308.000) atom18
+]
+@+ load atom19
+@+ move [
+    (144.000, 297.000) atom19
+    (147.000, 291.000) atom69
+    (159.000, 291.000) atom87
+    (144.000, 291.000) atom68
+    (168.000, 291.000) atom18
+]
+@+ store [
+    atom19
+    atom69
+    atom87
+    atom68
+    atom18
+]
+@+ h atom19
+@+ h atom68
+@+ load atom70
+@+ move (145.000, 307.000) atom70
+@+ store atom70
+@+ load atom23
+@+ move (145.000, 317.000) atom23
+@+ store atom23
+@+ load atom85
+@+ move (167.000, 307.000) atom85
+@+ store atom85
+@+ load [
+    atom69
+    atom18
+]
+@+ move [
+    (157.000, 307.000) atom18
+    (155.000, 307.000) atom69
+]
+@+ store [
+    atom18
+    atom69
+]
+@+ cz zone_cz0
+@+ load atom70
+@+ move (145.000, 308.000) atom70
+@+ load atom23
+@+ move [
+    (132.000, 294.000) atom23
+    (132.000, 291.000) atom70
+]
+@+ store [
+    atom23
+    atom70
+]
+@+ load [
+    atom21
+    atom18
+    atom85
+]
+@+ move [
+    (147.000, 297.000) atom21
+    (159.000, 297.000) atom18
+    (168.000, 297.000) atom85
+]
+@+ store [
+    atom21
+    atom18
+    atom85
+]
+@+ h atom85
+@+ h atom18
+@+ h atom23
+@+ h atom21
+@+ load atom22
+@+ move (157.000, 307.000) atom22
+@+ store atom22
+@+ load atom79
+@+ move (145.000, 317.000) atom79
+@+ store atom79
+@+ load atom19
+@+ move (167.000, 307.000) atom19
+@+ store atom19
+@+ cz zone_cz0
+@+ load [
+    atom22
+    atom19
+    atom67
+]
+@+ move [
+    (158.000, 308.000) atom22
+    (168.000, 308.000) atom19
+    (170.000, 308.000) atom67
+]
+@+ load atom79
+@+ move [
+    (153.000, 297.000) atom79
+    (180.000, 294.000) atom67
+    (174.000, 294.000) atom19
+    (162.000, 294.000) atom22
+]
+@+ store [
+    atom79
+    atom67
+    atom19
+    atom22
+]
+@+ h atom79
+@+ h atom19
+@+ h atom67
+@+ load atom24
+@+ move (145.000, 317.000) atom24
+@+ store atom24
+@+ load atom22
+@+ move (145.000, 307.000) atom22
+@+ store atom22
+@+ load [
+    atom70
+    atom87
+]
+@+ move [
+    (143.000, 307.000) atom70
+    (157.000, 307.000) atom87
+]
+@+ store [
+    atom70
+    atom87
+]
+@+ cz zone_cz0
+@+ load atom70
+@+ move (143.000, 308.000) atom70
+@+ load [
+    atom59
+    atom24
+]
+@+ move [
+    (132.000, 291.000) atom59
+    (135.000, 291.000) atom24
+    (132.000, 288.000) atom70
+]
+@+ store [
+    atom59
+    atom24
+    atom70
+]
+@+ load [
+    atom22
+    atom87
+]
+@+ move [
+    (156.000, 297.000) atom87
+    (144.000, 297.000) atom22
+]
+@+ store [
+    atom87
+    atom22
+]
+@+ h atom59
+@+ h atom87
+@+ h atom22
+@+ h atom70
+@+ h atom24
+@+ load atom23
+@+ move (157.000, 307.000) atom23
+@+ store atom23
+@+ cz zone_cz0
+@+ load atom69
+@+ move (162.000, 294.000) atom69
+@+ store atom69
+@+ h atom69
+@+ load atom71
+@+ move (155.000, 307.000) atom71
+@+ store atom71
+@+ cz zone_cz0
+@+ load atom23
+@+ move (159.000, 291.000) atom23
+@+ store atom23
+@+ h atom23
+@+ load atom24
+@+ move (157.000, 307.000) atom24
+@+ store atom24
+@+ cz zone_cz0
+@+ load [
+    atom71
+    atom24
+]
+@+ move [
+    (159.000, 288.000) atom24
+    (156.000, 288.000) atom71
+]
+@+ store [
+    atom24
+    atom71
+]
+@+ h atom24
+@+ h atom71
+// barrier
+@+ h atom48
+@+ h atom72
+@+ h atom49
+@+ h atom73
+@+ h atom50
+@+ h atom51
+@+ h atom52
+@+ h atom74
+@+ h atom53
+@+ h atom75
+@+ h atom54
+@+ h atom76
+@+ h atom55
+@+ h atom77
+@+ h atom56
+@+ h atom57
+@+ h atom58
+@+ h atom78
+@+ h atom59
+@+ h atom79
+@+ h atom60
+@+ h atom61
+@+ h atom80
+@+ h atom62
+@+ h atom63
+@+ h atom81
+@+ h atom64
+@+ h atom82
+@+ h atom65
+@+ h atom83
+@+ h atom66
+@+ h atom84
+@+ h atom67
+@+ h atom85
+@+ h atom68
+@+ h atom86
+@+ h atom69
+@+ h atom87
+@+ h atom70
+@+ h atom71
+@+ load atom50
+@+ move (121.000, 295.000) atom50
+@+ load atom48
+@+ move [
+    (155.000, 317.000) atom48
+    (143.000, 307.000) atom50
+]
+@+ store [
+    atom48
+    atom50
+]
+@+ load atom2
+@+ move (148.000, 286.000) atom2
+@+ load atom0
+@+ move [
+    (133.000, 307.000) atom2
+    (157.000, 317.000) atom0
+]
+@+ store [
+    atom2
+    atom0
+]
+@+ load [
+    atom49
+    atom4
+]
+@+ move [
+    (131.000, 307.000) atom49
+    (145.000, 307.000) atom4
+]
+@+ store [
+    atom49
+    atom4
+]
+@+ cz zone_cz0
+@+ load [
+    atom2
+    atom4
+]
+@+ move [
+    (134.000, 308.000) atom2
+    (146.000, 308.000) atom4
+]
+@+ load atom0
+@+ move [
+    (153.000, 294.000) atom0
+    (129.000, 288.000) atom2
+    (144.000, 288.000) atom4
+]
+@+ store [
+    atom0
+    atom2
+    atom4
+]
+@+ h atom0
+@+ h atom2
+@+ h atom4
+@+ load atom72
+@+ move (157.000, 317.000) atom72
+@+ store atom72
+@+ load [
+    atom73
+    atom60
+]
+@+ move [
+    (133.000, 307.000) atom73
+    (157.000, 307.000) atom60
+]
+@+ store [
+    atom73
+    atom60
+]
+@+ load [
+    atom9
+    atom0
+]
+@+ move [
+    (155.000, 307.000) atom0
+    (145.000, 307.000) atom9
+]
+@+ store [
+    atom0
+    atom9
+]
+@+ cz zone_cz0
+@+ load [
+    atom73
+    atom50
+    atom9
+    atom0
+]
+@+ move [
+    (134.000, 308.000) atom73
+    (144.000, 308.000) atom50
+    (146.000, 308.000) atom9
+    (156.000, 308.000) atom0
+]
+@+ load atom72
+@+ move [
+    (153.000, 294.000) atom72
+    (147.000, 291.000) atom0
+    (138.000, 291.000) atom50
+    (141.000, 291.000) atom9
+    (135.000, 291.000) atom73
+]
+@+ store [
+    atom72
+    atom0
+    atom50
+    atom9
+    atom73
+]
+@+ load atom60
+@+ move (162.000, 291.000) atom60
+@+ store atom60
+@+ h atom50
+@+ h atom0
+@+ load atom3
+@+ move (133.000, 307.000) atom3
+@+ store atom3
+@+ load atom1
+@+ move (157.000, 317.000) atom1
+@+ store atom1
+@+ cz zone_cz0
+@+ load [
+    atom49
+    atom3
+]
+@+ move [
+    (132.000, 308.000) atom49
+    (134.000, 308.000) atom3
+]
+@+ load atom1
+@+ move [
+    (156.000, 291.000) atom1
+    (141.000, 285.000) atom3
+    (132.000, 285.000) atom49
+]
+@+ store [
+    atom1
+    atom3
+    atom49
+]
+@+ h atom1
+@+ h atom3
+@+ load atom7
+@+ move (145.000, 307.000) atom7
+@+ store atom7
+@+ load atom49
+@+ move (133.000, 286.000) atom49
+@+ load [
+    atom1
+    atom60
+]
+@+ move [
+    (167.000, 317.000) atom1
+    (169.000, 317.000) atom60
+    (143.000, 307.000) atom49
+]
+@+ store [
+    atom1
+    atom60
+    atom49
+]
+@+ load atom5
+@+ move (157.000, 317.000) atom5
+@+ store atom5
+@+ cz zone_cz0
+@+ load atom7
+@+ move (146.000, 308.000) atom7
+@+ load [
+    atom5
+    atom60
+]
+@+ move [
+    (162.000, 291.000) atom60
+    (150.000, 291.000) atom5
+    (147.000, 285.000) atom7
+]
+@+ store [
+    atom60
+    atom5
+    atom7
+]
+@+ h atom60
+@+ load atom61
+@+ move (169.000, 317.000) atom61
+@+ store atom61
+@+ load [
+    atom51
+    atom5
+]
+@+ move [
+    (130.000, 292.000) atom51
+    (151.000, 292.000) atom5
+]
+@+ load atom72
+@+ move [
+    (157.000, 317.000) atom72
+    (133.000, 307.000) atom5
+    (131.000, 307.000) atom51
+]
+@+ store [
+    atom72
+    atom5
+    atom51
+]
+@+ load atom73
+@+ move (145.000, 307.000) atom73
+@+ store atom73
+@+ cz zone_cz0
+@+ load atom51
+@+ move (132.000, 308.000) atom51
+@+ load [
+    atom72
+    atom1
+]
+@+ move [
+    (156.000, 291.000) atom1
+    (150.000, 291.000) atom72
+    (132.000, 285.000) atom51
+]
+@+ store [
+    atom1
+    atom72
+    atom51
+]
+@+ load [
+    atom5
+    atom73
+]
+@+ move [
+    (138.000, 297.000) atom73
+    (129.000, 297.000) atom5
+]
+@+ store [
+    atom73
+    atom5
+]
+@+ h atom72
+@+ h atom73
+@+ h atom1
+@+ h atom5
+@+ load atom10
+@+ move (172.000, 289.000) atom10
+@+ load atom5
+@+ move [
+    (133.000, 307.000) atom10
+    (131.000, 317.000) atom5
+]
+@+ store [
+    atom10
+    atom5
+]
+@+ load [
+    atom51
+    atom8
+]
+@+ move [
+    (133.000, 286.000) atom51
+    (181.000, 286.000) atom8
+]
+@+ load atom64
+@+ move [
+    (145.000, 307.000) atom8
+    (133.000, 317.000) atom64
+    (131.000, 307.000) atom51
+]
+@+ store [
+    atom8
+    atom64
+    atom51
+]
+@+ load atom80
+@+ move (167.000, 317.000) atom80
+@+ store atom80
+@+ load atom6
+@+ move (157.000, 317.000) atom6
+@+ store atom6
+@+ cz zone_cz0
+@+ load [
+    atom51
+    atom49
+]
+@+ move [
+    (131.000, 308.000) atom51
+    (144.000, 308.000) atom49
+]
+@+ load [
+    atom5
+    atom48
+    atom80
+    atom61
+]
+@+ move [
+    (165.000, 297.000) atom48
+    (177.000, 297.000) atom61
+    (174.000, 297.000) atom80
+    (129.000, 297.000) atom5
+    (153.000, 294.000) atom49
+    (129.000, 294.000) atom51
+]
+@+ store [
+    atom48
+    atom61
+    atom80
+    atom5
+    atom49
+    atom51
+]
+@+ h atom48
+@+ h atom49
+@+ h atom51
+@+ h atom5
+@+ load atom82
+@+ move (131.000, 317.000) atom82
+@+ store atom82
+@+ load atom2
+@+ move (167.000, 307.000) atom2
+@+ store atom2
+@+ load atom54
+@+ move (136.000, 286.000) atom54
+@+ load atom52
+@+ move [
+    (155.000, 317.000) atom52
+    (131.000, 307.000) atom54
+]
+@+ store [
+    atom52
+    atom54
+]
+@+ load atom53
+@+ move (143.000, 307.000) atom53
+@+ store atom53
+@+ load atom61
+@+ move (169.000, 307.000) atom61
+@+ store atom61
+@+ cz zone_cz0
+@+ load [
+    atom10
+    atom61
+]
+@+ move [
+    (133.000, 308.000) atom10
+    (170.000, 308.000) atom61
+]
+@+ load [
+    atom82
+    atom64
+    atom6
+]
+@+ move [
+    (135.000, 294.000) atom64
+    (132.000, 294.000) atom82
+    (156.000, 294.000) atom6
+    (165.000, 291.000) atom61
+    (135.000, 291.000) atom10
+]
+@+ store [
+    atom64
+    atom82
+    atom6
+    atom61
+    atom10
+]
+@+ load atom8
+@+ move (144.000, 294.000) atom8
+@+ store atom8
+@+ h atom6
+@+ h atom8
+@+ h atom10
+@+ load atom62
+@+ move (166.000, 295.000) atom62
+@+ load atom74
+@+ move [
+    (157.000, 317.000) atom74
+    (169.000, 307.000) atom62
+]
+@+ store [
+    atom74
+    atom62
+]
+@+ load atom76
+@+ move (133.000, 307.000) atom76
+@+ store atom76
+@+ load atom75
+@+ move (145.000, 307.000) atom75
+@+ store atom75
+@+ load atom61
+@+ move (157.000, 307.000) atom61
+@+ store atom61
+@+ load atom6
+@+ move (155.000, 307.000) atom6
+@+ store atom6
+@+ cz zone_cz0
+@+ load [
+    atom76
+    atom6
+    atom2
+]
+@+ move [
+    (134.000, 308.000) atom76
+    (156.000, 308.000) atom6
+    (168.000, 308.000) atom2
+]
+@+ load atom74
+@+ move [
+    (162.000, 297.000) atom74
+    (141.000, 294.000) atom76
+    (156.000, 294.000) atom6
+    (168.000, 294.000) atom2
+]
+@+ store [
+    atom74
+    atom76
+    atom6
+    atom2
+]
+@+ load [
+    atom54
+    atom75
+]
+@+ move [
+    (132.000, 297.000) atom75
+    (126.000, 297.000) atom54
+]
+@+ store [
+    atom75
+    atom54
+]
+@+ h atom2
+@+ load atom3
+@+ move (167.000, 307.000) atom3
+@+ store atom3
+@+ load atom7
+@+ move (157.000, 317.000) atom7
+@+ store atom7
+@+ load [
+    atom64
+    atom6
+]
+@+ move [
+    (133.000, 307.000) atom6
+    (131.000, 307.000) atom64
+]
+@+ store [
+    atom6
+    atom64
+]
+@+ load atom80
+@+ move (155.000, 307.000) atom80
+@+ store atom80
+@+ load atom9
+@+ move (145.000, 307.000) atom9
+@+ store atom9
+@+ cz zone_cz0
+@+ load [
+    atom6
+    atom9
+    atom80
+    atom61
+    atom62
+]
+@+ move [
+    (134.000, 308.000) atom6
+    (146.000, 308.000) atom9
+    (156.000, 308.000) atom80
+    (157.000, 308.000) atom61
+    (170.000, 308.000) atom62
+]
+@+ load atom7
+@+ move [
+    (162.000, 288.000) atom7
+    (141.000, 285.000) atom6
+    (162.000, 285.000) atom61
+    (159.000, 285.000) atom80
+    (147.000, 285.000) atom9
+    (168.000, 285.000) atom62
+]
+@+ store [
+    atom7
+    atom6
+    atom61
+    atom80
+    atom9
+    atom62
+]
+@+ h atom80
+@+ h atom7
+@+ h atom62
+@+ h atom9
+@+ h atom6
+@+ load atom13
+@+ move (145.000, 307.000) atom13
+@+ store atom13
+@+ load atom11
+@+ move (157.000, 317.000) atom11
+@+ store atom11
+@+ load atom63
+@+ move (169.000, 307.000) atom63
+@+ store atom63
+@+ load atom61
+@+ move (155.000, 307.000) atom61
+@+ store atom61
+@+ load atom7
+@+ move (157.000, 307.000) atom7
+@+ store atom7
+@+ load atom10
+@+ move (133.000, 307.000) atom10
+@+ store atom10
+@+ cz zone_cz0
+@+ load [
+    atom10
+    atom13
+    atom61
+    atom3
+    atom63
+]
+@+ move [
+    (134.000, 308.000) atom10
+    (146.000, 308.000) atom13
+    (156.000, 308.000) atom61
+    (168.000, 308.000) atom3
+    (170.000, 308.000) atom63
+]
+@+ load atom11
+@+ move [
+    (156.000, 294.000) atom11
+    (141.000, 291.000) atom13
+    (153.000, 291.000) atom61
+    (135.000, 291.000) atom10
+    (165.000, 291.000) atom3
+    (168.000, 291.000) atom63
+]
+@+ store [
+    atom11
+    atom13
+    atom61
+    atom10
+    atom3
+    atom63
+]
+@+ h atom61
+@+ h atom3
+@+ h atom10
+@+ load atom81
+@+ move (145.000, 286.000) atom81
+@+ load atom54
+@+ move [
+    (167.000, 307.000) atom81
+    (143.000, 317.000) atom54
+]
+@+ store [
+    atom81
+    atom54
+]
+@+ load atom63
+@+ move (169.000, 292.000) atom63
+@+ load atom11
+@+ move [
+    (145.000, 317.000) atom11
+    (169.000, 307.000) atom63
+]
+@+ store [
+    atom11
+    atom63
+]
+@+ load atom82
+@+ move (133.000, 295.000) atom82
+@+ load atom74
+@+ move [
+    (157.000, 317.000) atom74
+    (133.000, 307.000) atom82
+]
+@+ store [
+    atom74
+    atom82
+]
+@+ load atom65
+@+ move (155.000, 307.000) atom65
+@+ store atom65
+@+ load atom75
+@+ move (145.000, 307.000) atom75
+@+ store atom75
+@+ cz zone_cz0
+@+ load atom82
+@+ move (134.000, 308.000) atom82
+@+ load [
+    atom54
+    atom11
+    atom74
+]
+@+ move [
+    (132.000, 294.000) atom54
+    (147.000, 294.000) atom74
+    (138.000, 294.000) atom11
+    (129.000, 291.000) atom82
+]
+@+ store [
+    atom54
+    atom74
+    atom11
+    atom82
+]
+@+ load [
+    atom64
+    atom75
+    atom7
+    atom81
+]
+@+ move [
+    (156.000, 294.000) atom75
+    (165.000, 294.000) atom7
+    (171.000, 294.000) atom81
+    (135.000, 294.000) atom64
+]
+@+ store [
+    atom75
+    atom7
+    atom81
+    atom64
+]
+@+ h atom74
+@+ h atom75
+@+ h atom82
+@+ h atom11
+@+ h atom7
+@+ load [
+    atom54
+    atom64
+    atom11
+]
+@+ move [
+    (179.000, 307.000) atom64
+    (181.000, 307.000) atom11
+    (131.000, 307.000) atom54
+]
+@+ store [
+    atom64
+    atom11
+    atom54
+]
+@+ load [
+    atom15
+    atom14
+]
+@+ move [
+    (133.000, 307.000) atom15
+    (145.000, 307.000) atom14
+]
+@+ store [
+    atom15
+    atom14
+]
+@+ load atom12
+@+ move (157.000, 317.000) atom12
+@+ store atom12
+@+ load atom4
+@+ move (167.000, 307.000) atom4
+@+ store atom4
+@+ load atom83
+@+ move (157.000, 307.000) atom83
+@+ store atom83
+@+ cz zone_cz0
+@+ load [
+    atom15
+    atom53
+    atom65
+    atom83
+    atom4
+    atom64
+]
+@+ move [
+    (134.000, 308.000) atom15
+    (144.000, 308.000) atom53
+    (155.000, 308.000) atom65
+    (158.000, 308.000) atom83
+    (168.000, 308.000) atom4
+    (180.000, 308.000) atom64
+]
+@+ load atom52
+@+ move [
+    (162.000, 288.000) atom52
+    (144.000, 285.000) atom15
+    (165.000, 285.000) atom83
+    (162.000, 285.000) atom65
+    (150.000, 285.000) atom53
+    (183.000, 285.000) atom64
+    (171.000, 285.000) atom4
+]
+@+ store [
+    atom52
+    atom15
+    atom83
+    atom65
+    atom53
+    atom64
+    atom4
+]
+@+ h atom52
+@+ h atom53
+@+ h atom4
+@+ h atom64
+@+ load atom66
+@+ move (154.000, 289.000) atom66
+@+ load atom55
+@+ move [
+    (179.000, 307.000) atom66
+    (155.000, 317.000) atom55
+]
+@+ store [
+    atom66
+    atom55
+]
+@+ load [
+    atom57
+    atom15
+    atom56
+]
+@+ move [
+    (121.000, 307.000) atom15
+    (143.000, 307.000) atom56
+    (119.000, 307.000) atom57
+]
+@+ store [
+    atom15
+    atom56
+    atom57
+]
+@+ load [
+    atom76
+    atom8
+]
+@+ move [
+    (167.000, 307.000) atom8
+    (133.000, 307.000) atom76
+]
+@+ store [
+    atom8
+    atom76
+]
+@+ cz zone_cz0
+@+ load [
+    atom15
+    atom76
+    atom14
+    atom8
+    atom11
+]
+@+ move [
+    (122.000, 308.000) atom15
+    (134.000, 308.000) atom76
+    (146.000, 308.000) atom14
+    (168.000, 308.000) atom8
+    (182.000, 308.000) atom11
+]
+@+ load atom12
+@+ move [
+    (168.000, 288.000) atom12
+    (144.000, 285.000) atom76
+    (132.000, 285.000) atom15
+    (156.000, 285.000) atom14
+    (189.000, 285.000) atom11
+    (174.000, 285.000) atom8
+]
+@+ store [
+    atom12
+    atom76
+    atom15
+    atom14
+    atom11
+    atom8
+]
+@+ h atom76
+@+ h atom12
+@+ h atom11
+@+ h atom14
+@+ h atom15
+@+ load [
+    atom15
+    atom65
+    atom8
+]
+@+ move [
+    (133.000, 286.000) atom15
+    (163.000, 286.000) atom65
+    (175.000, 286.000) atom8
+]
+@+ load atom77
+@+ move [
+    (191.000, 307.000) atom65
+    (155.000, 307.000) atom15
+    (193.000, 307.000) atom8
+    (157.000, 317.000) atom77
+]
+@+ store [
+    atom65
+    atom15
+    atom8
+    atom77
+]
+@+ load [
+    atom16
+    atom19
+]
+@+ move [
+    (145.000, 307.000) atom19
+    (133.000, 307.000) atom16
+]
+@+ store [
+    atom19
+    atom16
+]
+@+ load atom20
+@+ move (121.000, 307.000) atom20
+@+ store atom20
+@+ load atom84
+@+ move (181.000, 307.000) atom84
+@+ store atom84
+@+ load atom68
+@+ move (157.000, 307.000) atom68
+@+ store atom68
+@+ load atom81
+@+ move (167.000, 307.000) atom81
+@+ store atom81
+@+ cz zone_cz0
+@+ load [
+    atom57
+    atom20
+    atom54
+    atom56
+    atom19
+    atom15
+    atom81
+    atom66
+    atom84
+    atom8
+]
+@+ move [
+    (120.000, 308.000) atom57
+    (122.000, 308.000) atom20
+    (132.000, 308.000) atom54
+    (144.000, 308.000) atom56
+    (146.000, 308.000) atom19
+    (156.000, 308.000) atom15
+    (168.000, 308.000) atom81
+    (180.000, 308.000) atom66
+    (182.000, 308.000) atom84
+    (194.000, 308.000) atom8
+]
+@+ load atom77
+@+ move [
+    (150.000, 297.000) atom77
+    (144.000, 294.000) atom15
+    (159.000, 294.000) atom81
+    (171.000, 294.000) atom66
+    (135.000, 294.000) atom56
+    (123.000, 294.000) atom54
+    (174.000, 294.000) atom84
+    (114.000, 294.000) atom57
+    (141.000, 294.000) atom19
+    (120.000, 294.000) atom20
+    (192.000, 294.000) atom8
+]
+@+ store [
+    atom77
+    atom15
+    atom81
+    atom66
+    atom56
+    atom54
+    atom84
+    atom57
+    atom19
+    atom20
+    atom8
+]
+@+ h atom54
+@+ h atom56
+@+ h atom57
+@+ h atom81
+@+ h atom8
+@+ h atom15
+@+ h atom20
+@+ load atom12
+@+ move (169.000, 289.000) atom12
+@+ load atom13
+@+ move [
+    (193.000, 307.000) atom12
+    (157.000, 317.000) atom13
+]
+@+ store [
+    atom12
+    atom13
+]
+@+ load [
+    atom58
+    atom86
+    atom9
+]
+@+ move [
+    (167.000, 307.000) atom9
+    (155.000, 307.000) atom86
+    (131.000, 307.000) atom58
+]
+@+ store [
+    atom9
+    atom86
+    atom58
+]
+@+ cz zone_cz0
+@+ load [
+    atom16
+    atom86
+    atom68
+    atom9
+    atom63
+    atom12
+]
+@+ move [
+    (134.000, 308.000) atom16
+    (156.000, 308.000) atom86
+    (157.000, 308.000) atom68
+    (168.000, 308.000) atom9
+    (170.000, 308.000) atom63
+    (194.000, 308.000) atom12
+]
+@+ load atom13
+@+ move [
+    (168.000, 291.000) atom13
+    (168.000, 288.000) atom68
+    (180.000, 288.000) atom63
+    (144.000, 288.000) atom16
+    (165.000, 288.000) atom86
+    (183.000, 288.000) atom12
+    (177.000, 288.000) atom9
+]
+@+ store [
+    atom13
+    atom68
+    atom63
+    atom16
+    atom86
+    atom12
+    atom9
+]
+@+ h atom9
+@+ h atom63
+@+ h atom13
+@+ h atom16
+@+ load atom83
+@+ move (193.000, 307.000) atom83
+@+ store atom83
+@+ load atom17
+@+ move (157.000, 317.000) atom17
+@+ store atom17
+@+ load [
+    atom78
+    atom12
+]
+@+ move [
+    (133.000, 307.000) atom78
+    (181.000, 307.000) atom12
+]
+@+ store [
+    atom78
+    atom12
+]
+@+ load atom66
+@+ move (179.000, 307.000) atom66
+@+ store atom66
+@+ cz zone_cz0
+@+ load [
+    atom58
+    atom78
+    atom66
+    atom12
+    atom83
+]
+@+ move [
+    (132.000, 308.000) atom58
+    (134.000, 308.000) atom78
+    (180.000, 308.000) atom66
+    (182.000, 308.000) atom12
+    (194.000, 308.000) atom83
+]
+@+ load atom17
+@+ move [
+    (162.000, 297.000) atom17
+    (171.000, 294.000) atom66
+    (138.000, 294.000) atom78
+    (177.000, 294.000) atom12
+    (195.000, 294.000) atom83
+    (132.000, 294.000) atom58
+]
+@+ store [
+    atom17
+    atom66
+    atom78
+    atom12
+    atom83
+    atom58
+]
+@+ h atom83
+@+ h atom12
+@+ load atom13
+@+ move (169.000, 292.000) atom13
+@+ load atom17
+@+ move [
+    (193.000, 307.000) atom13
+    (145.000, 317.000) atom17
+]
+@+ store [
+    atom13
+    atom17
+]
+@+ load atom16
+@+ move (145.000, 289.000) atom16
+@+ load atom58
+@+ move [
+    (143.000, 317.000) atom58
+    (155.000, 307.000) atom16
+]
+@+ store [
+    atom58
+    atom16
+]
+@+ load atom77
+@+ move (157.000, 317.000) atom77
+@+ store atom77
+@+ load atom66
+@+ move (157.000, 307.000) atom66
+@+ store atom66
+@+ cz zone_cz0
+@+ load [
+    atom16
+    atom65
+]
+@+ move [
+    (156.000, 308.000) atom16
+    (192.000, 308.000) atom65
+]
+@+ load [
+    atom17
+    atom77
+]
+@+ move [
+    (162.000, 297.000) atom77
+    (141.000, 297.000) atom17
+    (183.000, 294.000) atom65
+    (150.000, 294.000) atom16
+]
+@+ store [
+    atom77
+    atom17
+    atom65
+    atom16
+]
+@+ h atom77
+@+ h atom65
+@+ h atom17
+@+ load atom68
+@+ move (145.000, 307.000) atom68
+@+ store atom68
+@+ load [
+    atom84
+    atom67
+]
+@+ move [
+    (175.000, 295.000) atom84
+    (181.000, 295.000) atom67
+]
+@+ load atom21
+@+ move [
+    (155.000, 307.000) atom84
+    (145.000, 317.000) atom21
+    (191.000, 307.000) atom67
+]
+@+ store [
+    atom84
+    atom21
+    atom67
+]
+@+ load atom16
+@+ move (151.000, 295.000) atom16
+@+ load atom18
+@+ move [
+    (157.000, 317.000) atom18
+    (143.000, 307.000) atom16
+]
+@+ store [
+    atom18
+    atom16
+]
+@+ cz zone_cz0
+@+ load [
+    atom16
+    atom84
+    atom13
+]
+@+ move [
+    (144.000, 308.000) atom16
+    (155.000, 308.000) atom84
+    (194.000, 308.000) atom13
+]
+@+ load [
+    atom21
+    atom55
+]
+@+ move [
+    (153.000, 288.000) atom55
+    (144.000, 288.000) atom21
+    (135.000, 285.000) atom16
+    (153.000, 285.000) atom84
+    (192.000, 285.000) atom13
+]
+@+ store [
+    atom55
+    atom21
+    atom16
+    atom84
+    atom13
+]
+@+ h atom55
+@+ h atom84
+@+ h atom13
+@+ h atom16
+@+ h atom21
+@+ load atom59
+@+ move (155.000, 317.000) atom59
+@+ store atom59
+@+ load [
+    atom17
+    atom85
+]
+@+ move [
+    (193.000, 307.000) atom85
+    (155.000, 307.000) atom17
+]
+@+ store [
+    atom85
+    atom17
+]
+@+ load atom20
+@+ move (143.000, 307.000) atom20
+@+ store atom20
+@+ load atom78
+@+ move (145.000, 317.000) atom78
+@+ store atom78
+@+ cz zone_cz0
+@+ load [
+    atom20
+    atom67
+]
+@+ move [
+    (144.000, 308.000) atom20
+    (192.000, 308.000) atom67
+]
+@+ load [
+    atom78
+    atom18
+]
+@+ move [
+    (168.000, 297.000) atom18
+    (147.000, 297.000) atom78
+    (180.000, 294.000) atom67
+    (138.000, 294.000) atom20
+]
+@+ store [
+    atom18
+    atom78
+    atom67
+    atom20
+]
+@+ load [
+    atom66
+    atom85
+]
+@+ move [
+    (159.000, 297.000) atom66
+    (192.000, 297.000) atom85
+]
+@+ store [
+    atom66
+    atom85
+]
+@+ h atom78
+@+ h atom66
+@+ h atom18
+@+ h atom20
+@+ load atom86
+@+ move (143.000, 307.000) atom86
+@+ store atom86
+@+ load atom14
+@+ move (157.000, 286.000) atom14
+@+ load [
+    atom22
+    atom79
+]
+@+ move [
+    (167.000, 307.000) atom14
+    (157.000, 317.000) atom79
+    (145.000, 317.000) atom22
+]
+@+ store [
+    atom14
+    atom79
+    atom22
+]
+@+ load [
+    atom69
+    atom67
+]
+@+ move [
+    (169.000, 307.000) atom67
+    (157.000, 307.000) atom69
+]
+@+ store [
+    atom67
+    atom69
+]
+@+ cz zone_cz0
+@+ load [
+    atom17
+    atom14
+]
+@+ move [
+    (156.000, 308.000) atom17
+    (168.000, 308.000) atom14
+]
+@+ load [
+    atom58
+    atom22
+    atom79
+]
+@+ move [
+    (153.000, 297.000) atom79
+    (141.000, 297.000) atom58
+    (144.000, 297.000) atom22
+    (150.000, 294.000) atom17
+    (162.000, 294.000) atom14
+]
+@+ store [
+    atom79
+    atom58
+    atom22
+    atom17
+    atom14
+]
+@+ load atom86
+@+ move (150.000, 297.000) atom86
+@+ store atom86
+@+ h atom58
+@+ h atom14
+@+ h atom86
+@+ h atom17
+@+ h atom22
+@+ load atom19
+@+ move (157.000, 317.000) atom19
+@+ store atom19
+@+ load atom21
+@+ move (143.000, 307.000) atom21
+@+ store atom21
+@+ load [
+    atom87
+    atom18
+]
+@+ move [
+    (155.000, 307.000) atom87
+    (167.000, 307.000) atom18
+]
+@+ store [
+    atom87
+    atom18
+]
+@+ cz zone_cz0
+@+ load [
+    atom68
+    atom87
+    atom69
+    atom18
+]
+@+ move [
+    (146.000, 308.000) atom68
+    (156.000, 308.000) atom87
+    (157.000, 308.000) atom69
+    (168.000, 308.000) atom18
+]
+@+ load atom19
+@+ move [
+    (168.000, 291.000) atom19
+    (168.000, 288.000) atom69
+    (165.000, 288.000) atom87
+    (174.000, 288.000) atom18
+    (147.000, 288.000) atom68
+]
+@+ store [
+    atom19
+    atom69
+    atom87
+    atom18
+    atom68
+]
+@+ h atom19
+@+ h atom68
+@+ load atom85
+@+ move (167.000, 307.000) atom85
+@+ store atom85
+@+ load atom70
+@+ move (133.000, 289.000) atom70
+@+ load atom23
+@+ move [
+    (157.000, 317.000) atom23
+    (145.000, 307.000) atom70
+]
+@+ store [
+    atom23
+    atom70
+]
+@+ load [
+    atom69
+    atom18
+]
+@+ move [
+    (157.000, 307.000) atom18
+    (155.000, 307.000) atom69
+]
+@+ store [
+    atom18
+    atom69
+]
+@+ cz zone_cz0
+@+ load [
+    atom21
+    atom70
+    atom18
+]
+@+ move [
+    (144.000, 308.000) atom21
+    (146.000, 308.000) atom70
+    (157.000, 308.000) atom18
+]
+@+ load atom23
+@+ move [
+    (144.000, 291.000) atom23
+    (144.000, 288.000) atom18
+    (132.000, 288.000) atom21
+    (138.000, 288.000) atom70
+]
+@+ store [
+    atom23
+    atom18
+    atom21
+    atom70
+]
+@+ load atom85
+@+ move (168.000, 297.000) atom85
+@+ store atom85
+@+ h atom85
+@+ h atom18
+@+ h atom23
+@+ h atom21
+@+ load atom19
+@+ move (169.000, 292.000) atom19
+@+ load atom79
+@+ move [
+    (157.000, 317.000) atom79
+    (167.000, 307.000) atom19
+]
+@+ store [
+    atom79
+    atom19
+]
+@+ load atom22
+@+ move (157.000, 307.000) atom22
+@+ store atom22
+@+ cz zone_cz0
+@+ load [
+    atom22
+    atom19
+    atom67
+]
+@+ move [
+    (157.000, 308.000) atom22
+    (168.000, 308.000) atom19
+    (170.000, 308.000) atom67
+]
+@+ load atom79
+@+ move [
+    (168.000, 291.000) atom79
+    (168.000, 288.000) atom22
+    (174.000, 288.000) atom67
+    (171.000, 288.000) atom19
+]
+@+ store [
+    atom79
+    atom22
+    atom67
+    atom19
+]
+@+ h atom79
+@+ h atom19
+@+ h atom67
+@+ load [
+    atom70
+    atom22
+]
+@+ move [
+    (145.000, 307.000) atom22
+    (143.000, 307.000) atom70
+]
+@+ store [
+    atom22
+    atom70
+]
+@+ load atom24
+@+ move (157.000, 317.000) atom24
+@+ store atom24
+@+ load atom87
+@+ move (157.000, 307.000) atom87
+@+ store atom87
+@+ cz zone_cz0
+@+ load [
+    atom70
+    atom22
+    atom87
+]
+@+ move [
+    (144.000, 308.000) atom70
+    (146.000, 308.000) atom22
+    (157.000, 308.000) atom87
+]
+@+ load [
+    atom59
+    atom24
+]
+@+ move [
+    (165.000, 288.000) atom24
+    (159.000, 288.000) atom59
+    (156.000, 285.000) atom22
+    (165.000, 285.000) atom87
+    (147.000, 285.000) atom70
+]
+@+ store [
+    atom24
+    atom59
+    atom22
+    atom87
+    atom70
+]
+@+ h atom59
+@+ h atom87
+@+ h atom22
+@+ h atom70
+@+ h atom24
+@+ load atom23
+@+ move (157.000, 307.000) atom23
+@+ store atom23
+@+ cz zone_cz0
+@+ load atom69
+@+ move (156.000, 297.000) atom69
+@+ store atom69
+@+ h atom69
+@+ load atom71
+@+ move (155.000, 307.000) atom71
+@+ store atom71
+@+ cz zone_cz0
+@+ load atom23
+@+ move (153.000, 297.000) atom23
+@+ store atom23
+@+ h atom23
+@+ load atom24
+@+ move (157.000, 307.000) atom24
+@+ store atom24
+@+ cz zone_cz0
+@+ load [
+    atom71
+    atom24
+]
+@+ move [
+    (144.000, 291.000) atom71
+    (159.000, 291.000) atom24
+]
+@+ store [
+    atom71
+    atom24
+]
+@+ h atom24
+@+ h atom71
+// barrier

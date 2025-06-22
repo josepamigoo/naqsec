@@ -1,0 +1,44 @@
+gates: 
+  h:
+    - ["PAULI_CHANNEL_1", [0.1, 0, 0.1], true, [0.1, 0, 0.1]]
+  x:
+    - ["PAULI_CHANNEL_1", [0.075, 0, 0.075], true, [0.075, 0, 0.075]]
+  z:
+    - ["DEPOLARIZE1", [0], false, [0]]  # LOOK UP Z ERROR
+  cz:
+    - ["PAULI_CHANNEL_2", [0, 0, 0.3333333, 0, 0, 0, 0, 0 ,0 ,0 ,0, 0.3333333, 0, 0, 0.3333333], true, [0, 0, 0.3333333, 0, 0, 0, 0, 0 ,0 ,0 ,0, 0.3333333, 0, 0, 0.3333333]]
+  measure:
+    - ["X_ERROR", [0], true, [0.1]]
+  atom:
+    - ["X_ERROR", [0], true, [0.5]]
+
+operations:
+
+  move:
+      - ["Z_ERROR", [113582164, 0.55, 1.5, 0.000001]] 
+      - ["Z_ERROR", [1.4, 251_000,  0.000001, 30, 20 ]] #IDEAL ATOM LOSS DETECTION IS ASSUMED, mass given in 1e-25 kg
+      - ["Z_ERROR", [1.5]] #idle for cooling
+    
+
+  store:
+      - ["Z_ERROR", [0.1, 1.5]] #IDEAL ATOM LOSS DETECTION IS ASSUMED
+
+  load:
+      - ["Z_ERROR", [0.1, 1.5]] #IDEAL ATOM LOSS DETECTION IS ASSUMED
+
+  idle:
+      - ["Z_ERROR", [1.5]]
+
+gate_duration:
+  h: 0.0000005
+  x: 0.0000005
+  z: 0.0000005
+  cz: 0.0000002
+  measure: 0.0009
+  load : 0.00002
+  store : 0.00002
+  move:
+  cooling : 0.0002 
+
+p_value: 0
+  

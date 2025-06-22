@@ -1,0 +1,102 @@
+{
+  "name": "full_compute_store_architecture",
+  "storage_zones": [
+    {
+      "zone_id": 0,
+      "slms": [
+        {
+          "id": 0,
+          "site_separation": [
+            3,
+            3
+          ],
+          "r": 100,
+          "c": 100,
+          "location": [
+            0,
+            0
+          ]
+        }
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "dimension": [
+        297,
+        297
+      ]
+    }
+  ],
+  "entanglement_zones": [
+    {
+      "zone_id": 0,
+      "slms": [
+        {
+          "id": 1,
+          "site_separation": [
+            12,
+            10
+          ],
+          "r": 7,
+          "c": 20,
+          "location": [
+            35,
+            307
+          ]
+        },
+        {
+          "id": 2,
+          "site_separation": [
+            12,
+            10
+          ],
+          "r": 7,
+          "c": 20,
+          "location": [
+            37,
+            307
+          ]
+        }
+      ],
+      "offset": [
+        35,
+        307
+      ],
+      "dimension": [
+        230,
+        60
+      ]
+    }
+  ],
+  "aods": [
+    {
+      "id": 0,
+      "site_separation": 2,
+      "r": 100,
+      "c": 100
+    }
+  ],
+  "arch_range": [
+    [
+      0,
+      0
+    ],
+    [
+      297,
+      402
+    ]
+  ],
+  "rydberg_range": [
+    [
+      [
+        30,
+        302
+      ],
+      [
+        270,
+        372
+      ]
+    ]
+  ]
+}
