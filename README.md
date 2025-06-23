@@ -3,7 +3,7 @@
 
  This repository has been developed by Josep Amigó during his Bachelor thesis at the CDA chair at TUM for the completion of the degree in Engineering Physics at UPC.
 
- To properly work, all the use packages, including MQT_QECC:
+ To properly work, all the used packages, including MQT_QECC:
  https://github.com/cda-tum/mqt-qecc
  and MQT_QMAP:
  https://github.com/munich-quantum-toolkit/qmap
