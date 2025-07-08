@@ -1,2 +1,12 @@
-# naqsec
-Simulation toolchain for quantum error correction circuits in neutral atom quantum computers
+# NAqsec
+ A Simulation toolchain for quantum error correction circuits in neutral atom quantum computers.
+
+ This repository has been developed by Josep Amigó during his Bachelor thesis at the CDA chair at TUM for the completion of the degree in Engineering Physics at UPC.
+
+ To properly work, all the used packages, including MQT_QECC:
+ https://github.com/cda-tum/mqt-qecc
+ and MQT_QMAP:
+ https://github.com/munich-quantum-toolkit/qmap
+ must be installed on your local computer.
+
+ The "main" file is that titled workflow_simulation.py
