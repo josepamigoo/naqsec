@@ -139,7 +139,7 @@ class NAdecoder:
             nb_shots: number of shots to simulate
         """
 
-        seed = np.random.randint(1, 10000000000) + os.getpid() #improve?
+        seed = np.random.randint(1, 10000000000, dtype=np.int64) + os.getpid() #improve?
         
         sampler = self._stim_circ.compile_sampler(seed = seed) 
         measurements = sampler.sample(nb_shots)
@@ -207,7 +207,7 @@ class NAdecoder:
             bases: list of bools with the basis to measure each logical qubit
             nb_shots: number of shots to simulate
         """
-        seed = np.random.randint(1, 1000000000) + os.getpid()#improve?
+        seed = np.random.randint(1, 1000000000, dtype=np.int64) + os.getpid()
 
         sampler = self._stim_circ.compile_sampler(seed = seed) 
         measurements = sampler.sample(nb_shots)
@@ -557,7 +557,6 @@ class NAdecoder:
 
         for error in ops_errors:
                 for ii, element  in enumerate(self._error_model["operations"][error]):
-                        print(error, "element", element)
                         fun = element[2]
                         for attr in list(fun.__dict__):
                             delattr(fun, attr)

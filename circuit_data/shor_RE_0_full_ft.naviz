@@ -614,7 +614,6 @@ atom (60.000, 297.000) atom20
 ]
 @+ h atom8
 @+ h atom18
-@+ cz zone_cz0
 // barrier
 @+ h atom11
 @+ h atom12
@@ -1033,5 +1032,4 @@ atom (60.000, 297.000) atom20
 ]
 @+ h atom8
 @+ h atom18
-@+ cz zone_cz0
 // barrier

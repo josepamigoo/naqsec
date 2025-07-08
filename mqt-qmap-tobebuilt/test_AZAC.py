@@ -1,4 +1,3 @@
-from json import load as parse_json
 from mqt.core import load
 from mqt.qmap.na.zoned import RoutingAwareCompiler, ZonedNeutralAtomArchitecture
 
